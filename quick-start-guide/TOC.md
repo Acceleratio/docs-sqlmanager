@@ -4,4 +4,4 @@ slug: quick-start-guide
 private: true
 ---
 
-#[Quick Start Guide](quick-start-guide.md)
+# [Quick Start Guide](quick-start-guide.md)
