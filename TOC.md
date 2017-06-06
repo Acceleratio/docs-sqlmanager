@@ -13,5 +13,9 @@ Get going quickly.
 Learn how to install SQL Manager or update it to the latest version. 
 # [Activation](activation.md)
 Activate your fully featured version and explore all the amazing reports.  
-# [Get to know SysKit Sql Manager](get-to-know-sql-manager.md)
+# [Get to know SysKit SQL Manager](get-to-know-sql-manager.md)
 Dive into a detailed overview of what SysKit SQL Manager has to offer. Check out the available report types and feature sets. 
+# [Security Management](security-management.md)
+# [How To](how-to.md) 
+When you get stuck trying to make magic happen, these guides will tell you the secret.
+
