@@ -5,7 +5,7 @@ author: Tomislav Sirovec
 date: 06/6/2017
 ---
 
-SQLDocKit supports the following SQL Server versions:
+SysKit SQL Manager supports the following SQL Server versions:
 
 * SQL Server 2005  
 * SQL Server 2008
