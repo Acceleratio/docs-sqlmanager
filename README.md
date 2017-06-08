@@ -2,9 +2,9 @@
 private: true
 ---
 
-SQLDocKit is SQL Server administration and management tool created by Acceleratio Ltd. SQLDocKit was developed to make the lives of SQL Server admins and consultants easier by simplifying their daily time-consuming administration tasks. 
+SQL Manager is SQL Server administration and management tool created by Acceleratio Ltd. SQL Manager was developed to make the lives of SQL Server admins and consultants easier by simplifying their daily time-consuming administration tasks. 
 
-Create a complete SQL Server inventory, and keep your SQL environment secure with SQLDocKit. 
+Create a complete SQL Server inventory, and keep your SQL environment secure with SQL Manager. 
 
 Features:
 * Auto-discover all SQL Server instances across domains
