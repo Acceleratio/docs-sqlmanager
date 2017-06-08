@@ -2,7 +2,7 @@
 title: Autodiscover SQL Servers
 description: This section will show you how you can enable an autodetect option to auto-detect servers from your domains before each snapshot.
 author: Petra Filipi
-date: 07/6/2017
+date: 08/6/2017
 ---
 This section will show you how you can enable an autodetect option to auto-detect servers from your domains before each snapshot.
 
@@ -19,6 +19,6 @@ Use the __Options__ wizard to adjust and change your Snapshot [Options](#interna
 You can also add multiple credentials and multiple domains so that SysKit SQL Manager can auto-discover servers from multiple domains.
 
 ## Manage Domains
-Follow these steps to  manage domains which SQLDocKit will use when loading server data:
+Follow these steps to  manage domains which SysKit SQL Manager will use when loading server data:
 
 __Note__: Auto-detected SQL Servers will have a blue circle next to the Server Type icon in the SQL Servers grid so you can easily distinguish them from manually added servers, which will have an orange circle next to the icon.
