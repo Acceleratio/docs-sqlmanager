@@ -16,5 +16,5 @@ Features:
 * Perform security management tasks across multiple SQL Servers from a single UI
 * Manage multiple databases across different SQL Servers
 
-Make the most of your SQL administration with SQLDocKit. Save time and eliminate endless manual documentation!
+Make the most of your SQL administration with SQL Manager. Save time and eliminate endless manual documentation!
 Download free trial and give it a try - https://www.sqldockit.com/
