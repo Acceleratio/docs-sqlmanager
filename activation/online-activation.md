@@ -33,7 +33,7 @@ The activation will be completed in a couple of seconds. It is a one-time proces
 
 # Consultant License
 
-The consultant license can be activated on any server, and you can monitor an unlimited number of SQL Servers. However, you need to have a valid SQLDocKit consultant subscription. Please note that consultant license is intended for external (customer server) usage only.
+The consultant license can be activated on any server, and you can monitor an unlimited number of SQL Servers. However, you need to have a valid SysKit SQL Manager consultant subscription. Please note that consultant license is intended for external (customer server) usage only.
 
 Here is how to activate a consultant license:
 
@@ -44,9 +44,9 @@ Here is how to activate a consultant license:
 Provide the same email and password that you received during your online purchase. [Contact us](https://www.sqldockit.com/support/contact-us/) if you do not have the necessary activation information.
 Select the __One-time activation__ check box for a short-term SQLDocKit activation. When you finish using the application, the license details will be deleted and the product will no longer be active. This feature can be quite convenient when you are documenting your customers’ SQL Servers.
 
-4. Click __Activate__ to begin the activation process. The activation lasts for a couple of seconds, and it needs to be repeated on every server on which you wish to activate SQLDocKit. You can activate your license on an unlimited number of customer’s servers while your subscription is active.
+4. Click __Activate__ to begin the activation process. The activation lasts for a couple of seconds, and it needs to be repeated on every server on which you wish to activate SysKit SQL Manager. You can activate your license on an unlimited number of customer’s servers while your subscription is active.
 
-> __Please note!__ The consultant license requires re-activation every 30 days. When your current consultant subscription expires, SQLDocKit will warn you that re-activation is needed.
+> __Please note!__ The consultant license requires re-activation every 30 days. When your current consultant subscription expires, SysKit SQL Manager will warn you that re-activation is needed.
 
 # Related Articles
 
