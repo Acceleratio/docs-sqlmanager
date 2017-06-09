@@ -6,7 +6,7 @@ date: 06/6/2017
 ---
 
 # Server License
-__The__ server license is tied to the server on which it is installed. The license is per SQL Server and that means you can monitor all SQL Servers in your environment from a single server.
+The server license is tied to the server on which it is installed. The license is per SQL Server and that means you can monitor all SQL Servers in your environment from a single server.
 
 1. Navigate to the __Backstage Help Screen__ and click the __License Details__ section to begin the activation process.
 2. When the Activation window pops up, select __Server or Site__.
