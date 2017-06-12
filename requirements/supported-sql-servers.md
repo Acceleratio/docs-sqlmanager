@@ -1,8 +1,8 @@
 ---
 title: Supported SQL Server Versions
-description: ovdje opis!!!!!!!!!!!!!!!!!!!!!!!!!
+description: This article lists supported SQL Server versions.
 author: Tomislav Sirovec
-date: 06/6/2017
+date: 6/6/2017
 ---
 
 SysKit SQL Manager supports the following SQL Server versions:
@@ -14,4 +14,4 @@ SysKit SQL Manager supports the following SQL Server versions:
 * SQL Server 2014
 * SQL Server 2016
 
->*__Please note!__ We fully support all the available editions of the abovementioned  SQL Server versions, including Express and Developer.*
+> __Please note!__ We fully support all the available editions of the abovementioned  SQL Server versions, including Express and Developer.*
