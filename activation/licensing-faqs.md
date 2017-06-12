@@ -22,7 +22,7 @@ If you do not activate your product within a 30-day trial period, it will stop c
 
 ### If I do not have the product activation code needed for activation, how can I get one?
 
-If you cannot find your product activation code, contact our [support team](https://www.SysKit SQL Manager.com/support/).
+If you cannot find your product activation code, contact our [support team](https://www.sqldockit.com/support/).
 
 ### How do I activate my product?
 

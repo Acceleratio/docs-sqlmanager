@@ -1,9 +1,9 @@
 ---
 title: Usage Reports
-description: This article explains how to use SQLDocKit usage reports to track SQL Server database status, disk usage and database sizes.
+description: This article explains how to use SysKit SQL Manager usage reports to track SQL Server database status, disk usage and database sizes.
 ---
 
-SQLDocKit reports cover usage, namely disk usage and database sizes.
+SysKit SQL Manager reports cover usage, namely disk usage and database sizes.
 
 __Disk Usage:__ This report displays disk usage over time. It has a forecast option to estimate disk usage, and it uses current trends to help you manage disk growth in the future.
 
