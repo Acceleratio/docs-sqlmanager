@@ -1,6 +1,6 @@
 ---
 title: Activation Privacy Statement
-description: ovdje opis!!!!!!!!!!!!!!!!!!!!!!!!!
+description: This article contains Acceleratio Activation privacy statement.
 author: Tomislav Sirovec
 date: 06/6/2017
 ---
