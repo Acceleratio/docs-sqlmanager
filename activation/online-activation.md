@@ -5,7 +5,7 @@ author: Tomislav Sirovec
 date: 06/6/2017
 ---
 
-# Server License
+### Server License
 The server license is tied to the server on which it is installed. The license is per SQL Server and that means you can monitor all SQL Servers in your environment from a single server.
 
 1. Navigate to the __Backstage Help Screen__ and click the __License Details__ section to begin the activation process.
@@ -18,7 +18,7 @@ Once you have entered the product key, it will be validated by our activation se
 4. Click __Activate__ to begin the activation process.
 The activation will be complete in a couple of seconds and it’s a one-time process.
 
-# Site License
+### Site License
 
 Site license is tied to a __domain name__ or __ServerID__, which means you can use it to monitor an unlimited number of SQL Servers.
 
@@ -31,7 +31,7 @@ The product key is a combination of letters and numbers. To claim your activatio
 4. Click __Activate__ to begin the activation process.
 The activation will be completed in a couple of seconds. It is a one-time process.
 
-# Consultant License
+### Consultant License
 
 The consultant license can be activated on any server, and you can monitor an unlimited number of SQL Servers. However, you need to have a valid SysKit SQL Manager consultant subscription. Please note that consultant license is intended for external (customer server) usage only.
 
@@ -48,7 +48,7 @@ Select the __One-time activation__ check box for a short-term SysKit SQL Manager
 
 > __Please note!__ The consultant license requires re-activation every 30 days. When your current consultant subscription expires, SysKit SQL Manager will warn you that re-activation is needed.
 
-# Related Articles
+### Related Articles
 
 * [SQL Manager Offline Activation](#internal/activation/offline-activation)
 * [Licensing FAQs](#internal/activation/licensing-faqs)

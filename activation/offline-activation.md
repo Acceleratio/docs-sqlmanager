@@ -4,7 +4,7 @@ description: This article outlines the steps to perform an offline SQL Manager's
 author: Tomislav Sirovec
 date: 12/6/2017
 ---
- # Server License
+ ### Server License
 
 The server license is tied to a __Server ID__.
 
@@ -22,7 +22,7 @@ The server license is tied to a __Server ID__.
 4. Click __Browse__ to locate and upload your license file.
 5. Click __Activate__ to begin the activation process. The activation can last a couple of seconds, and it is a one-time process. You can activate SysKit SQL Manager on a single server with one key to monitor all the SQL Servers in your environment.
 
-# Site License
+### Site License
 
 The site license is tied to a domain name or Server ID, which means you can use it to monitor an unlimited number of SQL Servers within one physical location.
 
@@ -40,7 +40,7 @@ The site license is tied to a domain name or Server ID, which means you can use 
 4. Click __Browse__ to locate and upload your license file.
 5. Click __Activate__ to begin the activation process. The activation can last for a couple of seconds, and it is a one-time process.
 
-# Consultant License
+### Consultant License
 
 The consultant license can be activated on any server, but you need to have a valid SysKit SQL Manager consultant subscription. Please note that the consultant license is intended for external (customer server) usage only. Here is how to activate a consultant license offline:
 
@@ -61,7 +61,7 @@ Select the __One-time activation__ check box for a short-term SysKit SQL Manager
 
 5. Click __Activate__ to begin the activation. The activation can last for a couple of seconds and the same activation processes need to be repeated for every server on which you will activate SysKit SQL Manager. You can activate your license on an unlimited number of customer servers while your subscription is active.
 
-# Related articles
+### Related articles
 
-* [SysKit SQL Manager Online Activation](https://www.sqldockit.com/support/help/activation/online-activation/)
-* [Licesing FAQs](https://www.sqldockit.com/support/help/activation/licensing-faqs/)
+* [SysKit SQL Manager Online Activation](#internal/activation/online-activation)
+* [Licesing FAQs](#internal/activation/licesing-faqs)
