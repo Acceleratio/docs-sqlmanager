@@ -22,7 +22,7 @@ If you do not activate your product within a 30-day trial period, it will stop c
 
 ### If I do not have the product activation code needed for activation, how can I get one?
 
-If you cannot find your product activation code, contact our [support team](https://www.sqldockit.com/support/).
+If you cannot find your product activation code, contact our [support team](https://www.SysKit SQL Manager.com/support/).
 
 ### How do I activate my product?
 
@@ -61,7 +61,7 @@ One SysKit SQL Manager server license can be activated on a single server from w
 There are several restrictions in the Consultant edition:
 
 * Consultant License Call Home: Once activated on a SQL server or on a workstation, the Consultant license must to be re-activated every 30 days.
-* The license file generated for the offline activation is only valid for 72 hours. If you try to activate SQLDocKit with a license file generated more than 72 hours prior to your activation attempt, the activation process will fail.
+* The license file generated for the offline activation is only valid for 72 hours. If you try to activate SysKit SQL Manager with a license file generated more than 72 hours prior to your activation attempt, the activation process will fail.
 * The SysKit SQL Manager Service is not available with the Consultant license. This also means that the following features are unavailable due to this restriction:
   * Automatic Snapshots
   * Automatic Data Retention
@@ -76,7 +76,7 @@ The SysKit SQL Manager trial version has the following limitations:
 
 * Limited information is available in the generated documentation and exported reports. Exporting files to Word or Excel formats is not available. You can see what the exported reports and documentation look like in the full version.
 
-If you would like to learn more about SQLDocKit features, contact us and we will be more than happy to organize a demo for you and your colleagues to show SQLDocKit at its full strength.
+If you would like to learn more about SysKit SQL Manager features, contact us and we will be more than happy to organize a demo for you and your colleagues to show SysKit SQL Manager at its full strength.
 
 
 
