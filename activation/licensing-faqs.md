@@ -62,7 +62,7 @@ There are several restrictions in the Consultant edition:
 
 * Consultant License Call Home: Once activated on a SQL server or on a workstation, the Consultant license must to be re-activated every 30 days.
 * The license file generated for the offline activation is only valid for 72 hours. If you try to activate SQLDocKit with a license file generated more than 72 hours prior to your activation attempt, the activation process will fail.
-* The SQLDocKit Service is not available with the Consultant license. This also means that the following features are unavailable due to this restriction:
+* The SysKit SQL Manager Service is not available with the Consultant license. This also means that the following features are unavailable due to this restriction:
   * Automatic Snapshots
   * Automatic Data Retention
   * Automatic Subscriptions

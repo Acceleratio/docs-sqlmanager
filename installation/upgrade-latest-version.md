@@ -1,16 +1,14 @@
 ---
 title: Upgrade to the Latest Version
-description: ovdje opis!!!!!!!!!!!!!!!!!!!!!!!!!
+description: This article explains how to upgrade SysKit SQL Manager to the latest major version.
 author: Tomislav Sirovec
 date: 12/6/2017
 ---
-# Upgrade to the Latest Version
-
 This article explains how to upgrade SysKit SQL Manager to the latest major version. The SQLDocKit database, snapshots and application settings will be preserved by the upgrade.
 
 ### Preparation
 
-1. The account running the application should have __db_owner__ privileges on the SysKit SQL Manager database for the upgrade to be successful. If you are also changing the SysKit SQL Manager Service account to one that is different from the account that was assigned to the previous application version, the account running the upgrade should also have the __securityadmin__ role on the preferred SQL Server. This role will allow the account to [grant the right privileges to the new service account](https://www.sqldockit.com/support/help/requirements/user-permission-requirements/).
+1. The account running the application should have __db_owner__ privileges on the SysKit SQL Manager database for the upgrade to be successful. If you are also changing the SysKit SQL Manager Service account to one that is different from the account that was assigned to the previous application version, the account running the upgrade should also have the __securityadmin__ role on the preferred SQL Server. This role will allow the account to [grant the right privileges to the new service account](#internal/requirements/user-permission-requirements/).
 2. __Back up the database__ before proceeding with the upgrade, especially if upgrading to the latest version of SysKit SQL Manager.
 
 ## Instructions

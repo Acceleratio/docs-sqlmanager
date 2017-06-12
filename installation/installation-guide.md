@@ -1,11 +1,9 @@
 ---
 title: Installation Guide
-description: ovdje opis!!!!!!!!!!!!!!!!!!!!!!!!!
+description: This article explains how to install SysKit SQL Manager.
 author: Tomislav Sirovec
 date: 12/6/2017
 ---
-# Installation Guide
-
 This article explains how to install SysKit SQL Manager.
 
 1. [Download](https://www.sqldockit.com/download/) the application.
