@@ -13,7 +13,7 @@ The server license is tied to a __Server ID__.
 1. When the activation window appears, follow these steps:
 
    * Click __Generate__ to generate a file containing your environment  information.
-   * Go to this [activation link](https://customers.acceleratio.net/activation/?P=SysKit SQL Manager) and  select the __Server__ activation option.
+   * Go to this [activation link](https://customers.acceleratio.net/activation/?P=sqldockit) and  select the __Server__ activation option.
    * On the activation page, paste your __Product key__, which you can find on our customer portal.
    * Enter the company name.
    * Click __Select file__ to upload a file containing your environment details.
@@ -31,7 +31,7 @@ The site license is tied to a domain name or Server ID, which means you can use 
 1. When the activation window appears, follow these steps:
 
    * Click __Generate__ to generate a file containing your environment information.
-   * Go to this [activation link](https://customers.acceleratio.net/activation/?P=SysKit SQL Manager) and select the Site activation option.
+   * Go to this [activation link](https://customers.acceleratio.net/activation/?P=sqldockit) and select the Site activation option.
    * On the activation page, paste the __Product key__, which you can find in our customer portal.
    * Enter the company name.
    * Click __Select file__ to upload a file containing your environment details
@@ -48,8 +48,8 @@ The consultant license can be activated on any server, but you need to have a va
 1. When the activation window pops up, select __Consultant__ and then click the __offline activation__ link.
 1. When the activation window appears, follow these steps:
 
-   * Go to this [activation link](https://customers.acceleratio.net/activation/?P=SysKit SQL Manager) and select the __Consultant__ activation option.
-   * On the activation page, login with your username and password. You need to use the same email and password that you received during your online purchase. [Contact us](https://www.SysKit SQL Manager.com/support/contact-us/) if you do not have the necessary activation information.
+   * Go to this [activation link](https://customers.acceleratio.net/activation/?P=sqldockit) and select the __Consultant__ activation option.
+   * On the activation page, login with your username and password. You need to use the same email and password that you received during your online purchase. [Contact us](https://www.sqldockit.com/support/contact-us/) if you do not have the necessary activation information.
    * Select the __Consultant License__ option, provide your email and password, and then click __Select file__ to upload a file containing your environment details.
    * Click  __Generate the license file__ and download it.
 
