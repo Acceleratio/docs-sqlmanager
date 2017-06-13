@@ -17,4 +17,4 @@ Features:
 * Manage multiple databases across different SQL Servers
 
 Make the most of your SQL administration with SQL Manager. Save time and eliminate endless manual documentation!
-Download free trial and give it a try - https://www.sqldockit.com/
+Download free trial and give it a try - https://www.SysKit SQL Manager.com/

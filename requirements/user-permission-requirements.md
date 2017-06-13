@@ -6,7 +6,7 @@ date: 06/6/2017
 ---
 # User Permission Requiremants
 
-SysKit SQL Manager is a completely agentless install. Only a single instance of SQLDocKit must be deployed in your environment in order to document all the SQL Servers in your organization. In order to do so, you must make sure your system has been properly configured.
+SysKit SQL Manager is a completely agentless install. Only a single instance of SysKit SQL Manager must be deployed in your environment in order to document all the SQL Servers in your organization. In order to do so, you must make sure your system has been properly configured.
 
 There are two modes of taking a snapshot with SysKit SQL Manager. You can do so “manually” from the UI; in this case, the SQL discovery and data gathering will be performed through the user that is currently logged in. The other approach is to configure a service to create automatic snapshots on predetermined schedule. In the latter case, the SQL discovery and data gathering will be executed through the defined service user. Unless otherwise specified, both users are required to have all the privileges listed further in this article.
 
@@ -33,7 +33,7 @@ Follow these steps to give a user these privileges:
   * Under Security, go to Logins, find the desired user, and right-click Properties.
   * Under Server Roles, make sure sysadmin is checked and click __OK__.
 
-### SQLDocKit database requirements
+### SysKit SQL Manager database requirements
 
 #### Creating a new database
 
@@ -44,7 +44,7 @@ To create a new SysKit SQL Manager dedicated database, the user account running 
 These privileges will be granted automatically when a new SysKit SQL Manager database is created or during a database upgrade.
 
 * The SysKit SQL Manager service account needs to be granted __SPDocKit_service_role__ role in the SysKit SQL Manager database. This role will give the member of the service account __db_datawriter__  and  __db_datareader__ roles and grant __execute__ permissions on all the stored procedures in the database.
-* The account running the load from the SysKit SQL Manager console must have the same privileges as the SQLDocKit service account (see above).
+* The account running the load from the SysKit SQL Manager console must have the same privileges as the SysKit SQL Manager service account (see above).
 
 
 

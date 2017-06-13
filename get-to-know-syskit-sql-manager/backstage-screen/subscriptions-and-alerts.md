@@ -1,13 +1,13 @@
 ---
 title: Subscriptions and Alerts
-description: This article explains how to use Subscriptions and Alerts to schedule SQLDocKit reports and send them to the desired email addresses or upload to File share location and SharePoint document library.
+description: This article explains how to use Subscriptions and Alerts to schedule SysKit SQL Manager reports and send them to the desired email addresses or upload to File share location and SharePoint document library.
 author: Petra Filipi
 date: 12/6/2017
 ---
 
-This article explains how to use __Subscriptions and Alerts__ to schedule SQLDocKit reports and send them to the desired email addresses or upload to File share location and SharePoint document library. In order to use this feature, you have to configure an __SQLDocKit database__ and the subscription settings, as well as the other delivery methods you prefer.
+This article explains how to use __Subscriptions and Alerts__ to schedule SysKit SQL Manager reports and send them to the desired email addresses or upload to File share location and SharePoint document library. In order to use this feature, you have to configure an __SysKit SQL Manager database__ and the subscription settings, as well as the other delivery methods you prefer.
 
-Schedule report subscriptions and receive them immediately after the service snapshot, daily, weekly, monthly or quarterly. SQLDocKit Service will send them __periodically__ in a configured time. SQLDocKit Alerts will be sent immediately after the snapshot if critical data has been detected in Best Practices reports or selected differences report have new information.
+Schedule report subscriptions and receive them immediately after the service snapshot, daily, weekly, monthly or quarterly. SysKit SQL Manager Service will send them __periodically__ in a configured time. SysKit SQL Manager Alerts will be sent immediately after the snapshot if critical data has been detected in Best Practices reports or selected differences report have new information.
 
 You can locate this wizard in the __Configuration__ Backstage screen.
 
