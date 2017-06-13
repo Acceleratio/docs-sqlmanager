@@ -5,6 +5,10 @@ author: Tomislav Sirovec
 date: 07/6/2017
 ---
 
+## SysKit SQL Manager Connections
+
+There are a couple of errors that may be encountered when SQLDocKit attempts to connect and create inventory of your SQL Servers.
+
 ### Error Locating Server/Instance Specified
 
 #### Problem: 
