@@ -25,7 +25,7 @@ Follow these steps to give a user these privileges:
   * Navigate to __Configuration__, expand __Local Users and Groups__, and then click __Groups__.
   * Right-click the __Administrators__ group and then click __Add to Group__.
   * In the __Administrators__ Properties dialog box, click __Add__.
-  * In the __Select User__, Computers, or Groups dialog box, type the account name on which you want your worker process to run (for example, <Domain>\__YourAccount__) in the __Enter the object names to select__ box and then click __OK__.
+  * In the __Select User__, Computers, or Groups dialog box, type the account name on which you want your worker process to run (for example, DomainName\__YourAccount__) in the __Enter the object names to select__ box and then click __OK__.
   * In the __Administrators__ dialog box, click __OK__.
   * Close the __Server Manager__ screen.
 2. To give a user account a __SQL Server sysadmin role__:
@@ -49,11 +49,13 @@ These privileges will be granted automatically when a new SysKit SQL Manager dat
 ### Actice Directory Permissions
 
 If you plan to use the Auto-discovery feature, the user that is creating a snapshot must have the ability to read objects (computers) from the Active Directory. If the user does not have read privileges on the entire directory, you can choose to discover objects only within a predefined set of Organizational Units.
+
 This permission is required so that we can gather all the computers in your organization. Apply OU filtering if you would like to discover SQL Servers only on a particular set of computers in your organization.
 
 ### Windows Server Privileges
 
 The user running the tool must to be part of the local Administrators group on each computer that has the SQL Server installed. This privilege is required in order to obtain the list of installed SQL Server instances, components, and statuses.
+
 If you are running the tool for the first time and would like to perform an initial discovery of all SQL Servers in your organization, we would recommend running the tools as a Domain Admin user.
 
 ### SQL Server Privileges
