@@ -5,15 +5,13 @@ Description: This article describes what SQL Server Inventory includes.
 Date: 13/06/2017
 ---
 
-## SQL Inventory 
-
 SysKit SQL Manager crawls your entire domain and gathers information about all your servers. Once it creates a snapshot of the environment, SQL Inventory includes all the details you need for successful SQL Server management.
 
-### SQL Server
+## SQL Server
 
 __Discovered SQL Servers__: This report lists all discovered SQL Servers, as well the servers on which SQL Server instances are running, their load status, the last load errors, and a help link.
 
-### Database Engines
+## Database Engines
 
 __SQL Server Info__: This report displays details for each SQL Server discovered in your domain. It contains information about the SQL Server’s name, version, release, SQL account, and whether it’s part of a SQL Server cluster.
 
@@ -37,7 +35,7 @@ __SQL Service Accounts__: This report lists the service accounts on each SQL Ser
 
 __Logins & Roles__: This report lists the login name, login type, and permission to connect status. It also gathers information whether users are members of the following role groups: bulk admin, DB creator, process admin, security admin, setup admin, and sys admin.
 
-### Databases
+## Databases
 
 __Database List__: This report lists all the databases and provides additional details about the databases, such as the owner, when the database was created, its size, its compatibility level, whether it is a read-only database, its status, its recovery model, the database ID, when the last backup was performed, its space used in %, when it was last used, its owner status, and the number of days since the last backup.
 
@@ -53,27 +51,27 @@ __Model Database Files__: This report displays the database name, file type, fil
 
 __Role Membership__: This report lists all database users, logins mapped to database user accounts, and roles.
 
-### SQL Server Agent
+## SQL Server Agent
 
 The __SQL Server Agent__ reports give you complete information about SQL Server Agent jobs such as general and advanced configuration information, histories, job lists, job steps and tasks, job names, enabled/disabled state for each job and schedule, schedules created and available with details (occurrence, recurrence, frequency, etc.), operators, and alerts.
 
-### Analysis Services
+## Analysis Services
 
 __Analysis Services__ is an online analytical data engine used in decision support and business analytics. It provides analytical data for business reports and client applications such as Power BI, Excel, Reporting Services reports, and other data visualization tools. SysKit SQL Manager provides general information about your analysis services, language/collation, roles, members, and reports on all Analysis Services databases (properties, data sources, data source views, cubes, dimensions etc.).
 
-### Integration Services
+## Integration Services
 
 The __Integration Services__ reports list all the service accounts as well as the usernames displayed in the __Service Account__ report. The __Packages__ report lists all packages (their location, version-related information and a root folder) deployed in the MSDB database on your SQL Server.
 
-### Reporting Service
+## Reporting Service
 
 __Reporting Services__ is a server-based solution for building enterprise reports that draw content from a variety of relational and multidimensional data sources. It publishes reports that can be viewed in various formats, and centrally manages security and subscriptions. SysKit SQL Manager provides reports with general information about your reporting services, configuration, properties, reports, folders, and servers.
 
-### Azure
+## Azure
 
 SysKit SQL Manager provides valuable information about your __Azure SQL server environment__, such as server versions, memory, processor info and a list of all databases associated with an Azure SQL server, editions, statuses, logins, roles, created __firewall rules__ at the server and database level, and more.
 
-### Servers
+## Servers
 
 __Servers List__: This report lists servers in the domain, server OS, memory in GBs, number of processors, number of cores, IP address, FQDN, and system drive.
 

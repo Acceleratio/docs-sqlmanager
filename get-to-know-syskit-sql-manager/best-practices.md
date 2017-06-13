@@ -4,7 +4,6 @@ Author:Iva Novoselić
 Description:This article describes what are best practices to create reports
 Date:13/06/17
 ---
-## Best Practices
 
 The Best Practices section contains built-in reports that help SQL Server administrators check whether their SQL Server environment has been configured according to community best practices.
 
@@ -14,7 +13,7 @@ Available best practices are grouped into several segments: __Configuration, Dat
 
 [Learn more](https://www.sqldockit.com/resources/sql-server-best-practices-library/) about best practices in SysKit SQL Manager.
 
-### Configuration
+## Configuration
 
 __Auditing Login Failures__: On SQL Servers, the Auditing of Login Failures option is enabled by default. This report checks if the Auditing of Login Failures is enabled on the SQL Server instance.
 
@@ -32,7 +31,7 @@ __Remote Access__: Remote Access is an obscure SQL Server to SQL Server communic
 
 __SQL Server Memory__: The minimum and maximum SQL memory values should be configured, and they should differ from the default values.
 
-### Databases
+## Databases
 
 __Auto Close On__: On busy systems, repeated opening and closing of the database can result in performance problems and timeout issues. If the database is used regularly, disable the AUTO_CLOSE option.
 
@@ -50,19 +49,19 @@ __Simple Recovery Model__: Use the FULL or BULK-LOGGED recovery model when deali
 
 __Virtual Log File Count__: Too many virtual log files can cause transaction log backups to slow down and can also slow down database recovery and, in extreme cases, even affect insert/update/delete performance.
 
-### Hardware Requirements
+## Hardware Requirements
 
 __Free Disk Space__: The report determines if all servers have enough free disk space. You should be keeping an eye on the available disk space to avoid system failure.
 
 __RAM__: This determines the minimum and recommended amount of RAM for use with a SQL server.
 
-### Maintenance
+## Maintenance
 
 __Active Directory Valid Logins__:Keep your logins accurate and up to date by removing SQL Server logins that are used by Active Directory users that are either disabled or removed from the domain.
 
 __Database Backups__: The report checks whether the databases have been recently backed up.
 
-### Model DB
+## Model DB
 
 __ModelDB Recovery Model__: Set the modelDB’s recovery model to FULL.
 
@@ -70,7 +69,7 @@ __ModelDB Files Initial Size__: The modelDB’s initial size should be set to a 
 
 __ModelDB Files Autogrowth__: The modelDB’s autogrowth should be in megabytes and set to a value larger than the default. Don’t use the default settings. Also, these values should be set in accordance with your environment.
 
-### Security
+## Security
 
 __Guest Permissions__: You can’t drop the guest user. However, you can run the REVOKE CONNECT FROM GUEST within any database other than the master or tempDB database. This will revoke the guest user’s CONNECT permission as well as disable the user.
 
@@ -82,13 +81,13 @@ __SQL Server Users With The Simple Password__: The report checks if you have a p
 
 __Trustworthy Bit On__: The default trustworthy bit option is not a best practice. If the trustworthy bit is turned on, a privileged database user can elevate the permission level to the sysadmin role. That leaves the door open for security breaches and unsafe assemblies that can compromise the system.
 
-### SQL Server Agent 
+## SQL Server Agent 
 
 __SQL Agent Service Account__: Running the SQL Server Agent service under a highly-privileged account is a security risk and a bad practice. The report checks whether the SQL Agent account on the server has administrator privileges.
 
 __SQL Server Job Owner__: Checks SQL Server Agent Job owners against a login to validate which jobs do not match that owner. Customize Best Practices to set default job owner.
 
-### Temp DB
+## Temp DB
 
 __TempDB Files__: Each tempDB file should be on a separate drive.
 
@@ -104,7 +103,7 @@ __TempDB Files Growth__: Set the file growth increment to a reasonable size to a
 
 __Temp DB Separate Drive__: By default, the TempDB files are put on the same drive as the SQL Server binaries. Even if the user chooses a custom install, TempDB still goes on the same drive as the other data files, and that’s a bad practice. Instead, the TempDB data files should be on a dedicated drive.
 
-### Updates
+## Updates
 
 __Windows Updates__: This report checks whether any servers have Windows updates that are not installed.
 
