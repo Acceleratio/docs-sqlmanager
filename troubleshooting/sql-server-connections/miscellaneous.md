@@ -29,7 +29,7 @@ Cannot open database “model” requested by the login. The login failed. Login
 
 The user running SysKit SQL Manager and creating a snapshot must be sysadmin on the SQL Server in order to retrieve info from user and system databases.
 
-For more information, refer to [User Permission Requirements](https://www.sqldockit.com/support/help/requirements/user-permission-requirements/).
+For more information, refer to [User Permission Requirements](#internal/requirements/user-permission-requirements/).
 
 ### The service ‘MSSQL$SQLEXPRESS’ not running on ‘SERVER’.
 
