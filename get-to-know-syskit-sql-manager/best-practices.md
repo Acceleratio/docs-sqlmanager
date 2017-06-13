@@ -42,7 +42,7 @@ __Database Capacity__: Always track the growth of data and log files. A database
 
 __Database Autogrowth__: We recommend that you proactively manage the growth of data and log files by pre-growing all data and log files to their anticipated final size as much as possible. We also recommend that you enable autogrowth for safety reasons. Do not rely on the default autogrowth settings.
 
-__Database Collation__:The report compares Database Collations to Server Collation.
+__Database Collation__: The report compares Database Collations to Server Collation.
 
 __Database Files__: Database files and transaction logs should not be on the primary drive; they should be on separate drives.
 
