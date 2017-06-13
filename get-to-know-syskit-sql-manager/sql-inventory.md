@@ -1,7 +1,7 @@
 ---
 Title: SQL Server Inventory
 Author: Iva Novoselić
-Description: This article describes what SQL Server Inventory includes
+Description: This article describes what SQL Server Inventory includes.
 Date: 13/06/2017
 ---
 
