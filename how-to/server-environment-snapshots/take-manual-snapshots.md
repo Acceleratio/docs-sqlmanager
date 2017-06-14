@@ -1,0 +1,10 @@
+---
+Title:Take Manual Snapshots
+Author:Tomislav Sirovec
+Description:This article explains how administrators can take manual snapshots of the server environment.
+Date:14/06/17
+---
+This article explains how administrators can take manual snapshots of the server environment.
+
+1. Navigate to the __Backstage Actions Screen__ and click the __Take Snapshot__ button.
+1. Wait for the SysKit SQL Manager Snapshot Wizard to finish, then the server environment reports will be ready for use!
