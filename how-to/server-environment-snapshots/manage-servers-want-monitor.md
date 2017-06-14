@@ -28,6 +28,6 @@ Use __Manage Domains__ to manage the domains that SysKit SQL Manager will use wh
 
 ### Related articles
 
-* [Manage Domains](#internal/how-to/server-environment-snapshots/manage-servers-want-monitor/manage-domains)
-* [Add Servers](#internal/how-to/server-environment-snapshots/manage-servers-want-monitor/add-servers)
-* [Detect Options](#internal-how-to/server-environment-snapshots/manage-servers-want-monitor/detect-options)
+* [Manage Domains](#internal/how-to/add-sql-server/autodiscover-sql-servers/)
+* [Add Servers](#internal/how-to/how-to/add-sql-server/)
+* [Detect Options](#internal/get-to-know-syskit-sql-manager/backstage-screen/options-wizard#snapshot-options/)
