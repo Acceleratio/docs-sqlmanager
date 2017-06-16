@@ -26,7 +26,7 @@ If you cannot find your product activation code, contact our [support team](http
 
 ### How do I activate my product?
 
-ou can activate your product 24 hours a day, seven days a week via Internet. To activate your product, enter your product activation code and then click Activate. You must be connected to the Internet for the activation to be successful.
+You can activate your product 24 hours a day, seven days a week via Internet. To activate your product, enter your product activation code and then click Activate. You must be connected to the Internet for the activation to be successful.
 
 ### What does Acceleratio Ltd. do with the information sent during the product activation process?
 
