@@ -6,7 +6,7 @@ date: 07/6/2017
 ---
 ### Problem:
 
- > A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 – No connection could be made because the target machine actively refused it.)
+ A network-related or instance-specific error occurred while establishing a connection to SQL Server. The server was not found or was not accessible. Verify that the instance name is correct and that SQL Server is configured to allow remote connections. (provider: TCP Provider, error: 0 – No connection could be made because the target machine actively refused it.)
 
 ### Solution:
 
