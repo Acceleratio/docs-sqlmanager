@@ -11,7 +11,7 @@ A network-related or instance-specific error occurred while establishing a conne
 
 ### Solution:
 
-SQLDocKit cannot connect to your instance due to one of the following problems:
+SysKit SQL Manager cannot connect to your instance due to one of the following problems:
 
 * TCP/IP or Named Pipes protocols are disabled
 * Remote Connections are not enabled

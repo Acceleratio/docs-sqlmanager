@@ -11,5 +11,5 @@ Login failed for user _‘CONTOSO\walterwhite‘_.
 
 ### Solution:
 
-The user running SQLDocKit and creating a snapshot must be sysadmin on the SQL Server in order to retrieve info from user and system databases.
+The user running SysKit SQL Manager and creating a snapshot must be sysadmin on the SQL Server in order to retrieve info from user and system databases.
 For more information, refer to [User Permission Requirements.](#internal/requirements/user-permission-requirements)
