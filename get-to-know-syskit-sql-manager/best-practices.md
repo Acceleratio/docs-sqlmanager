@@ -1,8 +1,8 @@
 ---
-Title:Best Practices
-Author:Iva Novoselić
-Description:This article describes what are best practices to create reports
-Date:13/06/17
+Title: Best Practices
+Author: Iva Novoselić
+Description: This article describes what are best practices to create reports
+Date: 13/06/17
 ---
 
 The Best Practices section contains built-in reports that help SQL Server administrators check whether their SQL Server environment has been configured according to community best practices.
