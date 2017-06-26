@@ -16,7 +16,7 @@ This section lists the minimum hardware and software requirements needed to succ
   * Windows 8.x
   * Windows 10
 * Microsoft .NET Framework 4.5.2 or later.
-* The SQL Database for SysKit SQL manager needs to be installed on SQL Server 2008 (any edition) or better.
+* The SQL Database for SysKit SQL Manager needs to be installed on SQL Server 2008 (any edition) or better.
 * The computer running the tool needs to be part of an Active Directory domain.
 
 ### Hardware requirements
