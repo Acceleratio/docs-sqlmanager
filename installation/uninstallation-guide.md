@@ -5,7 +5,7 @@ author: Tomislav Sirovec
 date: 12/6/2017
 ---
 
-We are sorry to hear you are leaving the Acceleratio family, but here are the steps to follow to uninstall the SysKit SQL Manager:
+We are sorry to hear you are leaving the SysKit family, but here are the steps to follow to uninstall the SysKit SQL Manager:
 
 1. Open the __Control Panel__ > __Programs__ > __Programs and Features__.
 2. Find the __SysKit SQL Manager__ and click the __Uninstall__ button.
