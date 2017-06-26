@@ -50,6 +50,6 @@ Select the __One-time activation__ check box for a short-term SysKit SQL Manager
 
 ### Related Articles
 
-* [SQL Manager Offline Activation](#internal/activation/offline-activation)
+* [SysKit SQL Manager Offline Activation](#internal/activation/offline-activation)
 * [Licensing FAQs](#internal/activation/licensing-faqs)
 
