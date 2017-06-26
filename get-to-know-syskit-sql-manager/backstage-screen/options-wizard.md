@@ -39,7 +39,7 @@ Use load performance slider to switch between low resource usage load to a high-
 
 In this section, the user can set how long the database data will be kept for. After the configured time period elapses, all of the __data records from SysKit SQL Manager database older than the configured time period will be deleted__. The default time period for storing the data records is 6 months. SysKit SQL Manager service will execute this job every day at the random time between 1:30AM and 5AM.
 
-Set the preferred database size and SysKit SQL Managerwill warn you when database size passes the defined threshold.
+Set the preferred database size and SysKit SQL Manager will warn you when database size passes the defined threshold.
 
 If your SysKit SQL Manager database becomes too big, you can force manual data retention using __Execute__ button. Please note that this action will also try to execute __SHRINKDATABASE__ command on you SysKit SQL Manager database, which will fail unless you have the necessary permissions – member of the sysadmin or db_owner role by default. Specified data will still be deleted but database size will not reduce until this command is executed, using SysKit SQL Manager or directly on SQL server.
 
