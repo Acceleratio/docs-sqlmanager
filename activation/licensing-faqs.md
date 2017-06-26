@@ -6,11 +6,11 @@ date: 06/6/2017
 ---
 ### What happens during product activation?
 
-Product activation is a simple process that occurs when you register a purchased product. To activate the product, you will enter the product key and it will be authenticated on the Acceleratio Ltd. product activation server. The entire activation process is quick and easy, and the majority of users will have to activate the product only once.
+Product activation is a simple process that occurs when you register a purchased product. To activate the product, you will enter the product key and it will be authenticated on the SysKit Ltd. product activation server. The entire activation process is quick and easy, and the majority of users will have to activate the product only once.
 
 ### Who will be required to activate their products?
 
-Anyone who purchases SysKit SQL Manager will be required to activate the product. If the product is ordered online from the Acceleratio Ltd. website, the product activation code will be sent via email.
+Anyone who purchases SysKit SQL Manager will be required to activate the product. If the product is ordered online from the SysKit Ltd. website, the product activation code will be sent via email.
 
 ### When am I required to activate my product?
 
@@ -28,21 +28,21 @@ If you cannot find your product activation code, contact our [support team](http
 
 You can activate your product 24 hours a day, seven days a week via Internet. To activate your product, enter your product activation code and then click Activate. You must be connected to the Internet for the activation to be successful.
 
-### What does Acceleratio Ltd. do with the information sent during the product activation process?
+### What does SysKit Ltd. do with the information sent during the product activation process?
 
-We use the information only to verify that your product is used within the scope allowed by the Acceleratio Ltd. end-user license agreement (EULA). The information is stored in a database and used only for product activation data. If you register your product, none of the activation information will ever be linked to your personal customer information.
+We use the information only to verify that your product is used within the scope allowed by the SysKit Ltd. end-user license agreement (EULA). The information is stored in a database and used only for product activation data. If you register your product, none of the activation information will ever be linked to your personal customer information.
 
 ### What is product activation?
 
-Product activation is an anonymous, secure, hassle-free process that authenticates licensed users during the installation process. The process verifies that the product activation code is legitimate and that it has not been activated on more systems than the number allowed by the Acceleratio Ltd. EULA.
+Product activation is an anonymous, secure, hassle-free process that authenticates licensed users during the installation process. The process verifies that the product activation code is legitimate and that it has not been activated on more systems than the number allowed by the SysKit Ltd. EULA.
 
-### Why does Acceleratio Ltd. require their customers to activate the software?
+### Why does SysKit Ltd. require their customers to activate the software?
 
-Product activation is a simple way to reduce and deter unauthorized use and casual copying of Acceleratio Ltd. products with a minimal effect on our loyal customers.
+Product activation is a simple way to reduce and deter unauthorized use and casual copying of SysKit Ltd. products with a minimal effect on our loyal customers.
 
-### Will the activation process ever send data to Acceleratio Ltd. after I activate my product?
+### Will the activation process ever send data to SysKit Ltd. after I activate my product?
 
-No. Activation is a secure, anonymous, one-time process. After activation is complete, the license manager runs alongside the product for the sole purpose of verifying the integrity of the license file and the validity of the product license. The activation technology in the product does not send any additional information to Acceleratio Ltd.
+No. Activation is a secure, anonymous, one-time process. After activation is complete, the license manager runs alongside the product for the sole purpose of verifying the integrity of the license file and the validity of the product license. The activation technology in the product does not send any additional information to SysKit Ltd.
 
 ### How long does product activation takes to complete?
 
