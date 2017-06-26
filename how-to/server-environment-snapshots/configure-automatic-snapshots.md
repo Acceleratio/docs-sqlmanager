@@ -1,8 +1,8 @@
 ---
-Title:Configure Automatic Snapshots
-Author:Tomislav Sirovec
-Description:This article explains how can administrators configure a schedule to create automatic server environment snapshots
-Date:14/06/17
+title: Configure Automatic Snapshots
+description: This article explains how administrators can configure a schedule to create automatic server environment snapshots using SysKit SQL Manager.
+author: Petra Filipi
+date: 26/06/2017
 ---
 
 SysKit SQL Manager allows administrators to configure a schedule to create automatic server environment snapshots. Once configured, the snapshot service can save your server environment settings and email them to selected users if any changes are detected.
