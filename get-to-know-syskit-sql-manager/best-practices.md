@@ -29,6 +29,8 @@ __Max Worker Threads__: Using incorrect values for the max worker threads option
 
 __Remote Access__: Remote Access is an obscure SQL Server to SQL Server communication feature that is deprecated. Community best practice is that you ought to avoid it. The report checks whether the ‘remote access’ Server Configuration Option is enabled or not.
 
+__SQL Server Max Memory__: If you have configured your SQL Server’s max memory, ensure that the operating system has enough memory available. If the operating system has no memory available, it will start using the page file instead of RAM. Using the page file instead of memory will result in poor system performance.
+
 __SQL Server Memory__: The minimum and maximum SQL memory values should be configured, and they should differ from the default values.
 
 ## Databases
@@ -71,6 +73,8 @@ __ModelDB Files Autogrowth__: The modelDB’s autogrowth should be in megabytes 
 
 ## Security
 
+__Different SQL Service Account__: Use separate accounts for different SQL Server services. Running different services under the same account is considered a security risk.
+
 __Guest Permissions__: You can’t drop the guest user. However, you can run the REVOKE CONNECT FROM GUEST within any database other than the master or tempDB database. This will revoke the guest user’s CONNECT permission as well as disable the user.
 
 __Public Role Not Granted Server Permissions__: The report checks if server permission is granted to the Public role.
@@ -93,7 +97,7 @@ __TempDB Files__: Each tempDB file should be on a separate drive.
 
 __TempDB Size__: The size of the tempDB should be at least 10% of the largest database on the SQL server.
 
-__TempDB Files Configuration__: The number of tempdb files should be the same as the number of processor cores present on the SQL server and no larger than eight. Additionally, all file sizes should be equal.
+__TempDB Files Configuration__: The number of tempdb files should be the same as the number of processor cores present on the SQL server. If the number of logical processors is greater than eight, use eight data files and then, if contention continues, increase the number of data files by multiples of four. Additionally, all file sizes should be equal.
 
 __TempDB Response Times__: The write response times for tempDB should be less than 20 ms and read response times should be less than 20 ms.
 
