@@ -1,5 +1,5 @@
 ---
-title: Miscellaneus
+title: Miscellaneous
 description: This article describes how to troubleshoot various issues that may appear during the usage of SysKit SQL Manager.
 author: Tomislav Sirovec
 date: 13/6/2017
@@ -119,7 +119,7 @@ The user does not have permission to perform this action.
 
 #### Solution:
 
-The user that is being used to run SysKit SQL Manager and retrieve server information needs to be a member of the sysadmin, processadmin or serveradmin role on this server.
+The user that is being used to run SysKit SQL Manager and retrieve server information needs to be a local admin on the machine and a member of the sysadmin, processadmin or serveradmin role on this server.
 
 ### A connection cannot be made to redirector. Ensure that ‘SQL Browser’ service is running.
 
