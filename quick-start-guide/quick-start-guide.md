@@ -16,5 +16,5 @@ Here is what you need to do to start using our application:
 ## Learn more
 
 * [Installation Guide](#internal/installation/installation-guide)
-* [How to Create Server Environment Documentation](/how-to/server-environment-documentation/create-server-environment-documentation)
+* [How to Create Server Environment Documentation](#internal/how-to/server-environment-documentation/create-server-environment-documentation)
 * [How to Configure Automatic Snapshots](#internal/how-to/server-environment-snapshots/configure-automatic-snapshots)
