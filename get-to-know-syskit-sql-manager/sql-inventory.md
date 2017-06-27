@@ -37,7 +37,7 @@ __Logins & Roles__: This report lists the login name, login type, and permission
 
 ## Databases
 
-__Database List__: This report lists all the databases and provides additional details about the databases, such as the owner, when the database was created, its size, its compatibility level, whether it is a read-only database, its status, its recovery model, the database ID, when the last backup was performed, its space used in %, when it was last used, its owner status, and the number of days since the last backup.
+__Database List__: This report lists all the databases and provides additional details about the databases, such as the owner, when the database was created, its size, its compatibility level, whether it is a read-only database, its status, its recovery model, the database ID, when the last backup was performed, its space used in %, when it was last used, its owner status, and the number of days since the last backup. Explore and document the whole structure of your SQL Server databases. Use __Tables__, __Views__, __Programmability__, and __Security Roles__ reports to discover more about database objects in your environment.
 
 __Database Files__: This report tracks databases on each SQL Server in the domain and gathers information about the database’s online status, file growth value, file size in MBs, max file size, file path, and database ID.
 
@@ -70,6 +70,9 @@ __Reporting Services__ is a server-based solution for building enterprise report
 ## Azure
 
 SysKit SQL Manager provides valuable information about your __Azure SQL server environment__, such as server versions, memory, processor info and a list of all databases associated with an Azure SQL server, editions, statuses, logins, roles, created __firewall rules__ at the server and database level, and more.
+
+## Always On
+Keep track of your availability groups, primary and secondary databases (synchronization state, health, database state), availability replicas, roles, availability group listeners (subnet, IP address, listener port, state), and availability modes.
 
 ## Servers
 
