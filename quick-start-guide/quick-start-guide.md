@@ -7,7 +7,7 @@ date: 27/06/2017
 Here is what you need to do to start using our application:
 
 1. [Download](https://www.sqldockit.com/download/) the application.
-2. Unpack and run the SysKitSQLManagerSetup.exe. The wizard will guide you through the installation steps.
+2. Unpack and run the SysKitSQLManagerSetup.exe. The wizard will guide you through the [installation](#internal/installation/installation-guide) steps.
 3. Once installed, start the application from the Start menu: __Start > All Programs > SysKitSQLManager__.
 4. Click the __Take Snapshot__ button from the left-side navigation bar to load the current SQL Server Environment settings.
 5. Use the __Generate__ button to generate server environment documentation in .DOCX or .XLSX format.
