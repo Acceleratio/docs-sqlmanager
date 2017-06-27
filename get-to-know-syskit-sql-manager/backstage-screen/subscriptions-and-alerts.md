@@ -16,7 +16,7 @@ In the main grid, you can see already scheduled report subscriptions and alerts,
 Alerts will be marked with the bell icon, while the scheduled subscriptions will have the open letter icon. Here you can:
 
 * create new subscription to schedule preferred reports
-* create new alerts for the selected SharePoint objects or best practices reports
+* create new alerts for your environment or best practices reports
 * change existing subscription or alert settings by clicking the __Edit__ button
 * __Delete__ previously created subscriptions and alerts
 * manually send specific subscription and alert if you click Send Email Now
