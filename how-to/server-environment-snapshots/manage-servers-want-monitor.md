@@ -14,13 +14,13 @@ Use the __Detect__ button above the grid to autodetect SQL servers from your dom
 
 Use the __Add__, __Edit__, and __Delete__ buttons to manage the SQL servers you want to monitor with SysKit SQL Manager. Disable the autodetect option if you do not want to see deleted servers in a snapshot
 
-### Exclude servers from snapshot
+### Enable Monitoring Status
 
-To exclude selected servers from a snapshot, click the __Exclude__ button above the grid and then click __Yes__. Note that all server instances will be affected.
+To enable monitoring status and include selected servers in a snapshot and security management, click the __Enable__  button above the grid and then click __Yes__.
 
-### Include servers in snapshot
+### Disable Monitoring Status
 
-To include servers in a snapshot, click the __Include__ button above the grid and then click __Yes__. Note that all server instances will be affected.
+To disable monitoring status and exclude servers from a snapshot and security management, click the __Disable__ button above the grid and then click __Yes__.
 
 ### Manage Domains 
 
