@@ -31,7 +31,7 @@ A Minimal period is every four hours. The SysKit SQL Manager service will start 
 ### Snapshot Options
 This section allows you to customize the detect options. You can check the __Detect SQL servers on workstations__ option and __Enable autodetect__ option to detect automatically all SQL servers in your domains before each snapshot.
 
-You can also choose what will be loaded in a manual or automatic snapshot. Available options are: __Server Information, Installed Programs and Available Updates, SQL Server Agent, Database Role Membership, Analysis Services, Integration Services and Reporting Services.__
+You can also choose what will be loaded in a manual or automatic snapshot. Available options are: __Server Information, Installed Programs and Available Updates, Database Role Membership, Database Object Details, Advanced Database Object Details, SQL Server Agent, Analysis Services, Integration Services and Reporting Services.__
 
 Use load performance slider to switch between low resource usage load to a high-performance load.
 

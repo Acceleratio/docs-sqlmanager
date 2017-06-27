@@ -1,8 +1,8 @@
 ---
-Title:Security Managment Wizard
-Description:This article describes how to grant permissions to the desired principal on specific SQL servers (database engines).
-Author:Iva Novoselić
-Date:14/06/17
+title: Security Managment Wizard
+description: This article describes how to grant permissions to the desired principal on specific SQL servers (database engines).
+author: Iva Novoselić
+date: 14/06/17
 ---
 
 This article describes how to grant permissions to the desired principal on specific SQL servers (database engines). You can also revoke permissions from the desired principals and drop logins from SQL Servers.
