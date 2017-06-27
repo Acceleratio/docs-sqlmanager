@@ -1,6 +1,6 @@
 ---
 title: Quick Start Guide
-description: This article will help you get started with SysKit SQL Manager, so you can start discover and document SQL Servers.
+description: This article will help you get started with SysKit SQL Manager, so you can start discovery and document SQL Servers.
 author: Petra Filipi
 date: 27/06/2017
 ---
