@@ -1,8 +1,8 @@
 ---
-Title:Server Permissions Ribbon Actions
-Author:Iva Novoselić
-Description:This article explains how to use the Server Permissions ribbon to manage server permissions on the selected server
-Date:13/06/2017
+title: Server Permissions Ribbon Actions
+author: Iva Novoselić
+description: This article explains how to use the Server Permissions ribbon to manage server permissions on the selected server
+date: 13/06/2017
 ---
 
 This article explains how to use the Server Permissions ribbon to manage server permissions on the selected server. Security management buttons are enabled only on the __Database Engine’s Logins & Roles__ report.
