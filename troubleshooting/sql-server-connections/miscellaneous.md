@@ -7,7 +7,7 @@ date: 13/6/2017
 
 ## SysKit SQL Manager Connections
 
-There are a couple of errors that may be encountered when SQLDocKit attempts to connect and create inventory of your SQL Servers.
+There are a couple of errors that may be encountered when SysKit SQL Manager attempts to connect and create inventory of your SQL Servers.
 
 ### Error Locating Server/Instance Specified
 
