@@ -16,7 +16,7 @@ The server license is tied to the server on which it is installed. The license i
 
     Once you have entered the product key it will be validated against our activation server. If your key is valid, a green check mark will appear next to it.
 
-4. Click the __Activate__ button to begin the activation process. Activation takes a couple of seconds and is a one time process.
+4. Click the __Activate__ button to start the activation process. Activation takes a couple of seconds and is a one time process.
 
 ### Consultant License
 
@@ -45,7 +45,7 @@ Site license is tied to a __domain name__ or __ServerID__, which means you can u
 
     Once you have entered the product key, it will be validated by our activation server. If your key is valid, a green check mark will appear next to it.
 
-4. Click __Activate__ to begin the activation process. Activation takes a couple of seconds and it is a one time process.
+4. Click __Activate__ to start the activation process. Activation takes a couple of seconds and it is a one time process.
 
 ### Related Articles
 
