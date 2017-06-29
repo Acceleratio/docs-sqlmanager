@@ -16,7 +16,7 @@ The server license is tied to a __Server ID__.
    * On the Activation Page paste the __Product key__, which you can find in our  [customers portal](https://customers.acceleratio.net).
    * Fill in the __Company__ field.
    * Upload the __License Details (.dlic) file__.
-   * Click on the __Generate license file!__.
+   * Click on the __Generate license file!__
    * Download the __license file (.lic).__
 1. Click on the __Browse__ button, locate your license file and upload it.
 1. Click the __Activate__ button. Activation takes a couple of seconds and is a one time process. You can activate SysKit SQL Manager on a single server with one key to monitor all the SQL Servers in your environment.
@@ -40,7 +40,7 @@ The Consultant license can be activated on any server, but you need to have a va
 
 The __One-time activation__ option allows short-term activation of SysKit SQL Manager. If you check this box, the license details will be deleted and the license will be deactivated when the application is closed. This feature can be quite convenient when you are documenting your customer's environment.
 
-    > __Please note__! The Consultant license file is valid for 72 hours from the time of generation.
+__Please note__! The Consultant license file is valid for 72 hours from the time of generation.
 
 ### Site License
 
