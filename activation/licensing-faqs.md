@@ -2,7 +2,7 @@
 title: Licensing FAQs
 description: This section outlines licensing FAQs.
 author: Tomislav Sirovec
-date: 06/6/2017
+date: 06/06/2017
 ---
 ### What happens during product activation?
 

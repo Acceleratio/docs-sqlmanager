@@ -2,7 +2,7 @@
 title: Activation Privacy Statement
 description: This article contains SysKit Activation privacy statement.
 author: Tomislav Sirovec
-date: 06/6/2017
+date: 06/06/2017
 ---
 
 SysKit Ltd. needs you to activate your copy of SysKit SQL Manager so we can verify that your product was purchased legally. During the activation process, neither your personal data nor your product key will be sent to SysKit Ltd.
