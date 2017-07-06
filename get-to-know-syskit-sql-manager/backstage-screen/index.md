@@ -1,7 +1,8 @@
 ---
 title: Backstage Screen
+author: Petra Filipi
 description: This article explains how to use the Backstage Actions commands to quickly approach major SysKit SQL Manager options.
-date: 12/6/2017
+date: 12/06/2017
 ---
 
 The Backstage Actions view is a set of commands that can be used to quickly approach major SysKit SQL Manager options. The following options are available:
