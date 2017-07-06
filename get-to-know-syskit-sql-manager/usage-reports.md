@@ -1,6 +1,8 @@
 ---
 title: Usage Reports
 description: This article explains how to use SysKit SQL Manager usage reports to track SQL Server database status, disk usage and database sizes.
+author: Petra Filipi
+date: 06/07/2017
 ---
 
 SysKit SQL Manager reports cover usage, namely disk usage and database sizes.
