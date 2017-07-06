@@ -2,7 +2,7 @@
 title: Options Wizard
 description: This article explains how to use the Options wizard to adjust and change your SysKit SQL Manager settings.
 author: Petra Filipi
-date: 12/6/2017
+date: 12/06/2017
 ---
 This article explains how to use the __Options__ wizard to adjust and change your SysKit SQL Manager settings.
 

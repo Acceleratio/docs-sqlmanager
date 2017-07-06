@@ -2,7 +2,7 @@
 title: Supported SQL Server Versions
 description: This article lists supported SQL Server versions.
 author: Tomislav Sirovec
-date: 6/6/2017
+date: 06/06/2017
 ---
 
 SysKit SQL Manager supports the following SQL Server versions:

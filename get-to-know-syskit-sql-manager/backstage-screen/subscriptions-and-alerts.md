@@ -2,7 +2,7 @@
 title: Subscriptions and Alerts
 description: This article explains how to use Subscriptions and Alerts to schedule SysKit SQL Manager reports and send them to the desired email addresses or upload to File share location and SharePoint document library.
 author: Petra Filipi
-date: 12/6/2017
+date: 12/06/2017
 ---
 
 This article explains how to use __Subscriptions and Alerts__ to schedule SysKit SQL Manager reports and send them to the desired email addresses or upload to File share location and SharePoint document library. In order to use this feature, you have to configure an __SysKit SQL Manager database__ and the subscription settings, as well as the other delivery methods you prefer.

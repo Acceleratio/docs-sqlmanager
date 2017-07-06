@@ -2,7 +2,7 @@
 title: Miscellaneous
 description: This article describes how to troubleshoot various issues that may appear during the usage of SysKit SQL Manager.
 author: Tomislav Sirovec
-date: 13/6/2017
+date: 13/06/2017
 ---
 
 ## SysKit SQL Manager Connections

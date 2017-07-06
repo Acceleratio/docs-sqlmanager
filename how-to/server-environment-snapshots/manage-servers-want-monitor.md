@@ -2,7 +2,7 @@
 title: Manage the SQL Servers you want to monitor
 author: Tomislav Sirovec
 description: This article shows how to manage the SQL Servers you want to monitor.
-date: 14/06/17
+date: 14/06/2017
 ---
 Use the __SQL Servers__ dialog to manage the SQL servers you want to monitor with SysKit SQL Manager
 

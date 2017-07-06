@@ -2,7 +2,7 @@
 title: Manually Add SQL Servers
 description: This section describes how you can manually add SQL servers in SysKit SQL Manager.
 author: Petra Filipi
-date: 12/6/2017
+date: 12/06/2017
 ---
 This section describes how you can manually add SQL servers in SysKit SQL Manager.
 

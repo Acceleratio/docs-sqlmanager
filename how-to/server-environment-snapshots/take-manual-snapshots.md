@@ -2,7 +2,7 @@
 Title: Take Manual Snapshots
 Author: Tomislav Sirovec
 Description: This article explains how administrators can take manual snapshots of the server environment.
-Date: 14/06/17
+Date: 14/06/2017
 ---
 This article explains how administrators can take manual snapshots of the server environment.
 
