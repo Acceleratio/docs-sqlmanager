@@ -2,7 +2,7 @@
 title: User Permission Requirements
 description: This article lists all of the required privileges to load the SQL Server settings using SysKit SQL Manager.
 author: Tomislav Sirovec
-date: 06/6/2017
+date: 06/06/2017
 ---
 # User Permission Requirements
 

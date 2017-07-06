@@ -2,7 +2,7 @@
 title: SQL Server Configuration Prerequisites
 description: This article describes which are the SQL Server Configuration prerequisities for SysKit SQL Manager.
 author: Tomislav Sirovec
-date: 06/6/2017
+date: 06/06/2017
 ---
 ### Remote Connections
 

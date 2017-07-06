@@ -2,7 +2,7 @@
 title: Could not open a connection to SQL Server
 description: This article describes how to resolve issue when a network-related or instance-specific error occurred while establishing a connection to SQL Server.
 author: Petra Filipi
-date: 07/6/2017
+date: 07/06/2017
 ---
 
 ### Problem:

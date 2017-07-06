@@ -2,7 +2,7 @@
 title: Online Activation
 description: This article outlines the steps to perform an online SysKit SQL Manager activation.
 author: Tomislav Sirovec
-date: 06/6/2017
+date: 06/06/2017
 ---
 
 ### Server License

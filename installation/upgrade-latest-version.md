@@ -2,7 +2,7 @@
 title: Upgrade to the Latest Version
 description: This article explains how to upgrade SysKit SQL Manager to the latest major version.
 author: Tomislav Sirovec
-date: 12/6/2017
+date: 12/06/2017
 ---
 This article explains how to upgrade SysKit SQL Manager to the latest major version. The SysKit SQL Manager database, snapshots and application settings will be preserved by the upgrade.
 

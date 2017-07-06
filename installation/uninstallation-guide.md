@@ -2,7 +2,7 @@
 title: Unistallation Guide
 description: This article explains how to remove SysKit SQL Manager from your environment.
 author: Tomislav Sirovec
-date: 12/6/2017
+date: 12/06/2017
 ---
 
 We are sorry to hear you are leaving the SysKit family, but here are the steps to follow to uninstall the SysKit SQL Manager:

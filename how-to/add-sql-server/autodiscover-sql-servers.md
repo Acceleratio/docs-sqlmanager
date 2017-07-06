@@ -2,7 +2,7 @@
 title: Autodiscover SQL Servers
 description: This section will show you how you can enable an autodetect option to auto-detect servers from your domains before each snapshot.
 author: Petra Filipi
-date: 08/6/2017
+date: 08/06/2017
 ---
 This section will show you how you can enable an autodetect option to auto-detect servers from your domains before each snapshot.
 

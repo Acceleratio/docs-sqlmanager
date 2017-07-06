@@ -2,7 +2,7 @@
 title: Scheduled Actions
 author: Tomislav Sirovec
 description: This article describes how to view and manage actions scheduled using the Security Managment Wizard.
-date: 14/06/17
+date: 14/06/2017
 ---
 
 The __Scheduled Actions__ button is located next to the [Security Wizard](#internal/security-managment/security-managment-wizard) button in the Server Permissions ribbon. It allows you to view and manage actions scheduled using the Security Wizard.

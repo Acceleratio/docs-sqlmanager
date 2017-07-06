@@ -1,8 +1,8 @@
 ---
-Title: SQL Server Inventory
-Author: Iva Novoselić
-Description: This article describes what SQL Server Inventory includes.
-Date: 13/06/2017
+title: SQL Server Inventory
+author: Iva Novoselić
+description: This article describes what SQL Server Inventory includes.
+date: 13/06/2017
 ---
 
 SysKit SQL Manager crawls your entire domain and gathers information about all your servers. Once it creates a snapshot of the environment, SQL Inventory includes all the details you need for successful SQL Server management.

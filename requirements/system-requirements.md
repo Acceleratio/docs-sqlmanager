@@ -2,7 +2,7 @@
 title: System Requirements
 description: This section lists the minimum hardware and software requirements needed to successfully install SysKit SQL Manager.
 author: Tomislav Sirovec
-date: 06/6/2017
+date: 06/06/2017
 ---
 This section lists the minimum hardware and software requirements needed to successfully install SysKit SQL Manager.
 

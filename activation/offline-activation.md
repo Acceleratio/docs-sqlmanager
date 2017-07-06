@@ -2,7 +2,7 @@
 title: Offline Activation
 description: This article outlines the steps to perform an offline SysKit SQL Manager activation.
 author: Tomislav Sirovec
-date: 12/6/2017
+date: 12/06/2017
 ---
  ### Server License
 
