@@ -23,7 +23,7 @@ If you are using named instance on a port other than the default, make sure SQL 
 
 #### Problem:
 
-Cannot open database “model” requested by the login. The login failed. Login failed for user ‘CONTOSO\walterwhite’.
+Cannot open database “model” requested by the login. The login failed. Login failed for user _‘CONTOSO\walterwhite’_.
 
 #### Solution:
 
