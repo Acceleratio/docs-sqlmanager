@@ -1,8 +1,8 @@
 ---
 title: Miscellaneous
 description: This article describes how to troubleshoot various issues that may appear during the usage of SysKit SQL Manager.
-author: Tomislav Sirovec
-date: 13/6/2017
+author: Petra Filipi
+date: 06/07/2017
 ---
 
 ## SysKit SQL Manager Connections
@@ -23,7 +23,7 @@ If you are using named instance on a port other than the default, make sure SQL 
 
 #### Problem:
 
-Cannot open database “model” requested by the login. The login failed. Login failed for user ‘CONTOSO\walterwhite’.
+Cannot open database “model” requested by the login. The login failed. Login failed for user _‘CONTOSO\walterwhite’_.
 
 #### Solution:
 
@@ -129,7 +129,7 @@ A connection cannot be made to redirector. Ensure that ‘SQL Browser’ service
 
 #### Solution:
 
-This could indicate that your SQL Browser service is not running on the SQL Server or the account that is being used to run the SQL Browser service cannot access the configuration files for Analysis Services. Check out [this article](https://blogs.msdn.microsoft.com/karang/2013/02/20/connectivity-issue-a-connection-cannot-be-made-to-redirector-ensure-that-sql-browser-service-is-running/) to learn more.
+This could indicate that your SQL Browser service is not running on the SQL Server or the account that is being used to run the SQL Browser service cannot access the configuration files for Analysis Services. Check out [this MSDN article](https://blogs.msdn.microsoft.com/karang/2013/02/20/connectivity-issue-a-connection-cannot-be-made-to-redirector-ensure-that-sql-browser-service-is-running/) to learn more.
 
 ### Timeout expired
 
@@ -201,4 +201,26 @@ No SQL credentials found for this Azure server.
 #### Solution:
 
 Make sure you entered the credentials correctly for this server, or edit the server with the correct credentials.
+
+
+### Report Server Database Problem
+
+#### Problem:
+
+An error occurred within the report server database. This may be due to a connection failure, timeout or low disk condition within the database.
+
+#### Solution:
+
+For more information about this error navigate to the report server on the local server machine or refer to [this MSDN article](https://social.msdn.microsoft.com/Forums/sqlserver/en-US/b80d7f29-b271-4845-b7be-df5a9b591ed2/ssrs-2008-connection-failure-timeout-or-low-disk-condition-within-the-database) for potential solutions.
+
+### Unauthorized request
+
+#### Problem:
+
+The request failed with HTTP status 401: Unauthorized.
+
+#### Solution:
+
+Make sure that the credentials used to retrieve information about this Reporting Services instance have the right privileges to read from the Reporting Service. Make sure that the user's Windows account is not locked out.
+
 
