@@ -13,7 +13,7 @@ The quick start guide will help you learn the basics so you can get going with S
 The installation guide provides instructions on how to install SysKit SQL Manager or update it to the latest version.
 # [Activation](activation.md)
 Follow the instructions for offline or online product activation. Activate your fully featured SysKit SQL Manager version and explore all of its amazing reports. 
-# [Get to know SysKit SQL Manager](get-to-know-sql-manager.md)
+# [Get to know SysKit SQL Manager](get-to-know-syskit-sql-manager.md)
 Dive into a detailed overview of what SysKit SQL Manager has to offer. Check out the available report types and feature sets.
 # [Security Management](security-management.md)
 Increase the security of your SQL Server environment using SysKit SQL Manager. Take care of multiple server and database management tasks from a single UI.  

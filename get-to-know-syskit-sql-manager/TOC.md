@@ -9,3 +9,4 @@ private: true
 ## [Subscriptions and Alerts](subscriptions-and-alerts.md)
 # [Best Practices](best-practices.md)
 # [SQL Inventory](sql-inventory.md)
+# [Usage reports](usage-reports.md)
