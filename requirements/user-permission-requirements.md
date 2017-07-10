@@ -46,7 +46,7 @@ These privileges will be granted automatically when a new SysKit SQL Manager dat
 * The SysKit SQL Manager service account needs to be granted __SPDocKit_service_role__ role in the SysKit SQL Manager database. This role will give the member of the service account __db_datawriter__  and  __db_datareader__ roles and grant __execute__ permissions on all the stored procedures in the database.
 * The account running the load from the SysKit SQL Manager console must have the same privileges as the SysKit SQL Manager service account (see above).
 
-### Actice Directory Permissions
+### Active Directory Permissions
 
 If you plan to use the Auto-discovery feature, the user that is creating a snapshot must have the ability to read objects (computers) from the Active Directory. If the user does not have read privileges on the entire directory, you can choose to discover objects only within a predefined set of Organizational Units.
 
