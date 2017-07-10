@@ -19,6 +19,6 @@ Alerts will be marked with the bell icon, while the scheduled subscriptions will
 * create new alerts for your environment or best practices reports
 * change existing subscription or alert settings by clicking the __Edit__ button
 * __Delete__ previously created subscriptions and alerts
-* manually send specific subscription and alert if you click Send Email Now
+* manually send specific subscription and alert if you click __Send Email Now__
 * adjust the time when these subscriptions will be sent and outgoing email server settings
-* Search the listed subscriptions and alerts.
+* __Search__ the listed subscriptions and alerts.
