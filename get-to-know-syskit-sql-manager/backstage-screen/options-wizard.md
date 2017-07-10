@@ -47,7 +47,7 @@ Please note that there is an option to “Mark Configuration as Good”. Meaning
 
 ### Subscription Settings
 
-If you wish to use __Subscriptions and Alerts__ feature, check in __Subscriptions Enabled__ box. Configure job execution time and on which day will the weekly reports be sent on. __Time of the day to send subscriptions__ option determines at which time will daily, weekly, monthly, and quarterly subscription be sent, while __Send weekly subscriptions__ option on dictates the day at which weekly subscriptions will be sent.
+If you wish to use __Subscriptions and Alerts__ feature, check in __Subscriptions Enabled__ box. Configure __job execution time__ and on which day will the weekly reports be sent on. __Time of the day to send subscriptions__ option determines at which time will daily, weekly, monthly, and quarterly subscription be sent, while __Send weekly subscriptions__ option on dictates the day at which __weekly__ subscriptions will be sent.
 
 To enable email as a preferred delivery method, configure outgoing email server settings. After the outgoing email server settings are provided, you can test if these are valid by clicking the __Test Email Settings__ button. There is also an option to customize the email footer and email body text.
 
