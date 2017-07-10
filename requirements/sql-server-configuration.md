@@ -65,9 +65,9 @@ If you have a firewall between the server hosting the application and the SQL se
 
 Follow [this guide](https://docs.microsoft.com/en-us/sql/sql-server/install/configure-the-windows-firewall-to-allow-sql-server-access) to learn more about firewall configuration.
 
-### Servers With Multiple Instelled and Named Instances
+### Servers With Multiple Installed and Named Instances
 
-If there is more than one instance of SysKit SQL Manager installed on a single computer (e.g. “COMPUTER” and “COMPUTER\OFFICESERVERS”), or if a named instance is installed on a computer (e.g. “COMPUTER\SQLEXPRESS”), SQLDocKit is not going to be able to connect to the instance automagically. One of the following must be configured:
+If there is more than one instance of SysKit SQL Manager installed on a single computer (e.g. “COMPUTER” and “COMPUTER\OFFICESERVERS”), or if a named instance is installed on a computer (e.g. “COMPUTER\SQLEXPRESS”), SysKit SQL Manager is not going to be able to connect to the instance automagically. One of the following must be configured:
 
 * Use the SQL Server Configuration Manager to enable SQL Server Browser service on this machine. Make sure it is configured to run Automatically when Windows starts. You can enable it in SQL Server Configuration Manager under SQL Server Services.
 * Find the exact port number used by each instance and then enter port number in the SysKit SQL Manager > SQL Servers dialog for this instance.
