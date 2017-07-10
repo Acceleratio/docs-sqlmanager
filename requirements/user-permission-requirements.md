@@ -25,7 +25,7 @@ Follow these steps to give a user these privileges:
   * Navigate to __Configuration__, expand __Local Users and Groups__, and then click __Groups__.
   * Right-click the __Administrators__ group and then click __Add to Group__.
   * In the __Administrators__ Properties dialog box, click __Add__.
-  * In the __Select User__, Computers, or Groups dialog box, type the account name on which you want your worker process to run (for example, DomainName\__YourAccount__) in the __Enter the object names to select__ box and then click __OK__.
+  * In the __Select User__, Computers, or Groups dialog box, type the account name on which you want your worker process to run (for example, DomainName\\__YourAccount__) in the __Enter the object names to select__ box and then click __OK__.
   * In the __Administrators__ dialog box, click __OK__.
   * Close the __Server Manager__ screen.
 2. To give a user account a __SQL Server sysadmin role__:
