@@ -16,6 +16,6 @@ Use the __Options__ wizard to adjust and change your Snapshot [Options](#interna
 3. Click __Save__.
 
 
-You can also [add multiple domains] and multiple credentials so that SysKit SQL Manager can auto-discover servers from multiple domains.
+You can also [add multiple domains](#internal/how-to/add-sql-server/manage-domains-credentials/) and multiple credentials so that SysKit SQL Manager can auto-discover servers from multiple domains.
 
 __Note__: Auto-detected SQL Servers will have a blue circle next to the Server Type icon in the SQL Servers grid so you can easily distinguish them from manually added servers, which will have an orange circle next to the icon.
