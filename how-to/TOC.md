@@ -7,6 +7,7 @@ private: true
 # [Add SQL Server](add-sql-server.md)  
 ## [Autodiscover SQL Servers](autodiscover-sql-servers.md)
 ## [Manually Add SQL Server](manually-add-sql-server.md)  
+## [Manage Domains and Credentials](manage-domains-credentials.md)
 # [Server Environment Snapshots](server-environment-snapshots.md)  
 ## [Take Manual Snapshots](take-manual-snapshots.md)
 ## [Configure Automatic Snapshots](configure-automatic-snapshots.md)
