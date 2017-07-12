@@ -1,6 +1,6 @@
 ---
 title: Scheduled Actions
-author: Tomislav Sirovec
+author: Petra Filipi
 description: This article describes how to view and manage actions scheduled using the Security Managment Wizard.
 date: 14/06/2017
 ---

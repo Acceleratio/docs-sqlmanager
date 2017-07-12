@@ -13,7 +13,7 @@ This article explains how to upgrade SysKit SQL Manager to the latest major vers
 
 ## Instructions
 
-1. [Download](https://www.sqldockit.com/download/) the application.
+1. [Download](https://www.syskit.com/products/slq-manager/download) the application.
 2. The __Installation Wizard__ will inform you that the previous version will be __uninstalled automatically__.
 3. Click __I Accept the terms of the license agreement__ to accept the license and then click __Next__ > to proceed.
 4. Choose the installation folder, e.g. __C:\Program Files\Acceleratio\SysKitSQLManager__.Click __Next__ > to proceed.

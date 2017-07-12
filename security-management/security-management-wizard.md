@@ -1,7 +1,7 @@
 ---
 title: Security Managment Wizard
 description: This article describes how to grant permissions to the desired principal on specific SQL servers (database engines).
-author: Iva Novoselić
+author: Petra Filipi
 date: 14/06/2017
 ---
 

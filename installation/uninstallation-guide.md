@@ -13,4 +13,4 @@ We are sorry to hear you are leaving the SysKit family, but here are the steps t
 4. Click __Next__ and wait for the wizard to remove the SysKit SQL Manager.
 5. Your SysKit SQL Manager has been successfully removed!
 
-If you have any suggestions on how to improve our product, or wish to express your dissatisfaction or share the reason why you removed our application, please feel free to [contact us](https://www.sqldockit.com/support/contact-us/).
+If you have any suggestions on how to improve our product, or wish to express your dissatisfaction or share the reason why you removed our application, please feel free to [contact us](https://www.syskit.com/contact-us).
