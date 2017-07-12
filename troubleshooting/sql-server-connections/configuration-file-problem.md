@@ -1,5 +1,5 @@
 ---
-title: Attempted to perform an unauthorized operation.
+title: Configuration file problem
 description: 
 author: Petra Filipi
 date: 12/07/2017

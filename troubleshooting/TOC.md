@@ -6,7 +6,7 @@ private: true
 
 # [SQL Server Connections](sql-server-connections.md)
 ## [Could not open a connection to SQL Server](could-not-open-a-connection-to-sql-server.md)
-## [No connection could be made because the target machine actively refused it.](connection-couldnt-be-made-target-machine-refused-it.md)
+## [No connection could be made because the target machine actively refused it](connection-couldnt-be-made-target-machine-refused-it.md)
 ## [Server doesn't support requested protocol](server-does-not-support-requested-protocol.md) 
 ## [Login failed for user 'CONTOSO\walterwhite'](login-failed-for-user.md)
 ## [Error Locating Server/Instance Specified](error-locating-server-instance-specified.md)
@@ -30,3 +30,5 @@ private: true
 ## [No SQL credentials found for this Azure server](no-sql-credentials-found-azure-server.md)
 ## [Firewall does not allow access to this server from current IP address](firewall-does-not-allow-access-to-server.md)
 ## [No process is on the other end of the pipe](no-process-is-on-other-end-pipe.md)
+##[Report Server Database Problem](report-server-database-problem.md)
+##[Unauthorized Request](unauthorized.request.md)

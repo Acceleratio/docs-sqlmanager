@@ -1,6 +1,6 @@
 ---
 title: Cannot open database “model” requested by the login
-description: 
+description: This article describes how to resolve the issue when trying to connect to SQL Server with the account that is not allowed to connect to SQL Server.
 author: Petra Filipi
 date: 12/07/2017
 ---

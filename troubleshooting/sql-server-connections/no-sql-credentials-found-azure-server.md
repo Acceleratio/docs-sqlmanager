@@ -1,5 +1,5 @@
 ---
-title: Attempted to perform an unauthorized operation.
+title: No SQL credentials found for this Azure server
 description: 
 author: Petra Filipi
 date: 12/07/2017
