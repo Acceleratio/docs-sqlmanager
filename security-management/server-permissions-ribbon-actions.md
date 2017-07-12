@@ -1,6 +1,6 @@
 ---
 title: Server Permissions Ribbon Actions
-author: Iva Novoselić
+author: Petra Filipi
 description: This article explains how to use the Server Permissions ribbon to manage server permissions on the selected server.
 date: 13/06/2017
 ---

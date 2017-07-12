@@ -9,5 +9,5 @@ SysKit Ltd. needs you to activate your copy of SysKit SQL Manager so we can veri
 
 Activation is based on a number of factors that are calculated during the activation process. The activation process only identifies the computer; it __does not include__ information about your software or data that resides on your computer or any other information about your computer model or environment.
 
-Please contact our [sales department](https://www.sqldockit.com/support/contact-us/) if you wish to perform your activation offline.
+Please contact our [sales department](https://www.syskit.com/contact-us) if you wish to perform your activation offline.
 

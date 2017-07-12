@@ -1,6 +1,6 @@
 ---
 title: Manage the SQL Servers you want to monitor
-author: Tomislav Sirovec
+author: Petra Filipi
 description: This article shows how to manage the SQL Servers you want to monitor.
 date: 14/06/2017
 ---
