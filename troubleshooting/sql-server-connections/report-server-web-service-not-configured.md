@@ -1,6 +1,6 @@
 ---
 title: Report Server Web Service is not configured
-description: 
+description: This article describes what to do if the Report Web Service is not configured.
 author: Petra Filipi
 date: 12/07/2017
 ---

@@ -1,6 +1,6 @@
 ---
 title: Error validating encrypted data
-description: 
+description: This article describes how to resolve the error validating encrypted data.
 author: Petra Filipi
 date: 12/07/2017
 ---

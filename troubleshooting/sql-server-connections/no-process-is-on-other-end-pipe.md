@@ -1,6 +1,6 @@
 ---
 title: No process is on the other end of the pipe
-description: 
+description: This article describes how to resolve the named pipe error when connecting to SQL server if the server has not enabled pipe support.
 author: Petra Filipi
 date: 12/07/2017
 ---

@@ -1,6 +1,6 @@
 ---
 title: Report Server Database Problem
-description: 
+description: This article troubleshoots report server database problem that you experience when connecting to a report server.
 author: Petra Filipi
 date: 12/07/2017
 ---

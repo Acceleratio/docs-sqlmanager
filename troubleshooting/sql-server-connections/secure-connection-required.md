@@ -1,6 +1,6 @@
 ---
 title: The operation you are attempting requires a secure connection
-description: 
+description:
 author: Petra Filipi
 date: 12/07/2017
 ---

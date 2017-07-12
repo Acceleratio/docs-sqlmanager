@@ -1,6 +1,6 @@
 ---
 title: Configuration file problem
-description: 
+description: This article describes how to resolve configuration file problem.
 author: Petra Filipi
 date: 12/07/2017
 ---

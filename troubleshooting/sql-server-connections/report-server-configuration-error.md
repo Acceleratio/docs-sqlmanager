@@ -1,6 +1,6 @@
 ---
 title: Client found response content type of “, but expected ‘text/xml’
-description: 
+description: This article describes how to resolve general configuration error with Reporting Services.
 author: Petra Filipi
 date: 12/07/2017
 ---

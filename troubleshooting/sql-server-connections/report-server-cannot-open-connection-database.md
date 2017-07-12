@@ -1,6 +1,6 @@
 ---
 title: Report Server Database Unavailable
-description: 
+description: This article describes how to resolve problem connecting report server to report server database in SSRS.
 author: Petra Filipi
 date: 12/07/2017
 ---

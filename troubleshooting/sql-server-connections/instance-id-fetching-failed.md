@@ -1,6 +1,6 @@
 ---
 title: Reporting Services instance ID fetching failed
-description: 
+description: This article describes how to resolve reporting services instance ID fetching failed error.
 author: Petra Filipi
 date: 12/07/2017
 ---

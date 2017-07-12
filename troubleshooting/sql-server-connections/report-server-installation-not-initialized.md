@@ -1,6 +1,6 @@
 ---
 title: Report server installation is not initialized
-description: 
+description: This article troubleshoots report server installation problem that you experience when connecting to a report server.
 author: Petra Filipi
 date: 12/07/2017
 ---

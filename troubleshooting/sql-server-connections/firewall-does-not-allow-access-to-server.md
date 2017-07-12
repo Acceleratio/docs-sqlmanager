@@ -1,6 +1,6 @@
 ---
 title: Firewall does not allow access to this server from current IP address
-description: 
+description: This article describes how you can enable access to a server from a current IP address.
 author: Petra Filipi
 date: 12/07/2017
 ---

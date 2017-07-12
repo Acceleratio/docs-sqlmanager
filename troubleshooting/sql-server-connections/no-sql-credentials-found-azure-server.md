@@ -1,6 +1,6 @@
 ---
 title: No SQL credentials found for this Azure server
-description: 
+description: This article describes how to resolve the problem with Azure credentials in SysKit SQL Manager.
 author: Petra Filipi
 date: 12/07/2017
 ---
