@@ -1,5 +1,5 @@
 ---
-title: Client found response content type of “, but expected ‘text/xml’. 
+title: Client found response content type of “, but expected ‘text/xml’
 description: 
 author: Petra Filipi
 date: 12/07/2017
