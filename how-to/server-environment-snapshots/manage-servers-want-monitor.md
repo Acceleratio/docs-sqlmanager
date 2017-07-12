@@ -29,5 +29,6 @@ Use __Manage Domains__ to manage the domains that SysKit SQL Manager will use wh
 ### Related articles
 
 * [Manage Domains](#internal/how-to/add-sql-server/autodiscover-sql-servers/)
-* [Add Servers](#internal/how-to/how-to/add-sql-server/)
+* [Manually Add SQL Servers](#internal/how-to/add-sql-server/manually-add-sql-server/)
+* [Autodiscover SQL Servers](#internal/how-to/add-sql-server/autodiscover-sql-servers/)
 * [Detect Options](#internal/get-to-know-syskit-sql-manager/backstage-screen/options-wizard#snapshot-options/)
