@@ -11,9 +11,9 @@ The server license is tied to a __Server ID__.
 1. From the left navigation bar on the __Backstage Screen__ select __Help__ and click on the __License Details__ section to begin the activation process.
 1. Click on the __Offline Activation__ link and a new activation dialog will appear. Follow these steps:
    * Click on the __Generate__ button to generate a __License Details (.dlic) file__.
-   * Navigate to the [Activation Page](https://customers.acceleratio.net/activation/?P=sqldockit) and  select the __Server License__ activation option.
+   * Navigate to the [Activation Page](https://my.syskit.com/activation/?P=SQLManager) and  select the __Server License__ activation option.
    * Select the __Version__ of SysKit SQL Manager you are creating a license for.
-   * On the Activation Page paste the __Product key__, which you can find in our  [customers portal](https://customers.acceleratio.net).
+   * On the Activation Page paste the __Product key__, which you can find in our  [customers portal](https://my.syskit.com).
    * Fill in the __Company__ field.
    * Upload the __License Details (.dlic) file__.
    * Click on the __Generate license file!__
@@ -28,9 +28,9 @@ The Consultant license can be activated on any server, but you need to have a va
 1. From the left navigation bar on the __Backstage Screen__ select __Help__ and click on the __License Details__ section to begin the activation process.
 1. Click on the __Offline Activation__ link and a new activation dialog will appear. Follow these steps:
     * Click on the __Generate__ button to generate a __License Details (.dlic) file__.
-   * Navigate to the [Activation Page](https://customers.acceleratio.net/activation/?P=sqldockit) and  select the __Consultant License__ activation option.
+   * Navigate to the [Activation Page](https://my.syskit.com/activation/?P=SQLManager) and  select the __Consultant License__ activation option.
    * Select the __Version__ of SysKit SQL Manager you are creating a license for.
-   * On the Activation Page, login with your username and password. You need to use the same email and password that you received during your online purchase. [Contact us](https://www.sqldockit.com/support/contact-us/) if you do not have the activation information.
+   * On the Activation Page, login with your username and password. You need to use the same email and password that you received during your online purchase. [Contact us](https://www.syskit.com/contact-us) if you do not have the activation information.
    * Upload the __License Details (.dlic) file__.
    * Click on the __Generate license file!__
    * Download the __license file (.lic).__
@@ -49,9 +49,9 @@ The Site license is tied to a __domain name__ or __Server ID__, which means you 
 1. From the left navigation bar on the __Backstage Screen__ select __Help__ and click on the __License Details__ section to begin the activation process.
 1. Click on the __Offline Activation__ link and a new activation dialog will appear. Follow these steps:
 * Click on the __Generate__ button to generate a __License Details (.dlic) file__.
-   * Navigate to the [Activation Page](https://customers.acceleratio.net/activation/?P=sqldockit) and  select the __Site License__ activation option.
+   * Navigate to the [Activation Page](https://my.syskit.com/activation/?P=SQLManager) and  select the __Site License__ activation option.
    * Select the __Version__ of SysKit SQL Manager you are creating a license for.
-   * On the Activation Page paste the __Product key__, which you can find in our  [customers portal](https://customers.acceleratio.net).
+   * On the Activation Page paste the __Product key__, which you can find in our  [customers portal](https://my.syskit.com).
    * Fill in the __Company__ field.
    * Upload the __License Details (.dlic) file__.
    * Click on the __Generate license file!__
