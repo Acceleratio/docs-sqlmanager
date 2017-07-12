@@ -1,5 +1,5 @@
 ---
-title: Firewall does not allow access to this server from current IP address
+title: No process is on the other end of the pipe
 description: 
 author: Petra Filipi
 date: 12/07/2017
