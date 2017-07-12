@@ -11,7 +11,7 @@ SysKit SQL Manager allows administrators to create their own best practice repor
 
 Available best practices are grouped into several segments: __Configuration, Databases__, __Hardware Requirements__, __Maintenance, Model DB, Security__, __SQL Server Agent__, __Temp DB__, and __Updates__.
 
-[Learn more](https://www.sqldockit.com/resources/sql-server-best-practices-library/) about best practices in SysKit SQL Manager.
+[Learn more](https://www.syskit.com/products/slq-manager/resources/sql-server-best-practices-library) about best practices in SysKit SQL Manager.
 
 ## Configuration
 

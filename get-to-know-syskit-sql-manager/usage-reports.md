@@ -19,4 +19,4 @@ __Orphaned Databases:__ This report lists all the databases with orphaned owners
 
 __Unused Databases:__ This report tracks databases that have not been used in a long time based on the data of the last read/write activity. Note that the time range resets each time you restart a SQL Server.
  
-Visit [Report Examples](https://www.sqldockit.com/resources/report-examples/) to see what these reports look like when they have been exported.
+Visit [Report Examples](https://www.syskit.com/products/slq-manager/resources/report-examples) to see what these reports look like when they have been exported.

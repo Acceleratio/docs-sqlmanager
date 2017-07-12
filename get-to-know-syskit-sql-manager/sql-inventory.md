@@ -87,4 +87,4 @@ __Available Windows Updates__: This report shows available updates listed per se
 
 __Programs List__: This report gathers information about all the programs installed on a particular server. It contains data such as the program name, version, publisher, install date, install location, a help link, and whether the program was updated.
 
-Check out how some of these reports look like when exported: [Report Examples](https://www.sqldockit.com/resources/report-examples/).
+Check out how some of these reports look like when exported: [Report Examples](https://www.syskit.com/products/slq-manager/resources/report-examples).
