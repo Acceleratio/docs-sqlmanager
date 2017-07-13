@@ -10,7 +10,7 @@ We have shipped SQLDocKit 6.3! This is a minor release with a couple of new feat
     Build number: 18
     Release date: August 25, 2016
 
-[Click here to download the new release](https://www.syskit.com/products/slq-manager/download)
+[Click here to download the new release.](https://www.syskit.com/products/slq-manager/download)
 
 ## Features
 * __Live Explorer__ – Gives you the ability to explore SQL Server settings and databases in live mode, without having to create a snapshot.
