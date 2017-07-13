@@ -30,5 +30,5 @@ private: true
 ## [No SQL credentials found for this Azure server](no-sql-credentials-found-azure-server.md)
 ## [Firewall does not allow access to this server from current IP address](firewall-does-not-allow-access-to-server.md)
 ## [No process is on the other end of the pipe](no-process-is-on-other-end-pipe.md)
-##[Report Server Database Problem](report-server-database-problem.md)
-##[Unauthorized Request](unauthorized.request.md)
+## [Report Server Database Problem](report-server-database-problem.md)
+## [Unauthorized Request](unauthorized.request.md)
