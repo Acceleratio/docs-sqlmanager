@@ -1,6 +1,6 @@
 ---
 title: Unauthorized request
-description: 
+description: This article describes how to resolve error that occurs when the user is not authorized to the Report Server. 
 author: Petra Filipi
 date: 12/07/2017
 ---
