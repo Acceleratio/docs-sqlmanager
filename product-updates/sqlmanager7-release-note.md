@@ -1,5 +1,5 @@
 ---
-title: SQLDocKit 6.4 - Release Note
+title: SQLDocKit 7 - Release Note
 description: We have shipped SQLDocKit 7! This major release brings you exciting new features:support for the Azure SQL server environment, management of server permissions, a number of new best practices, and other enhancements.
 author: Petra Filipi
 date: 04/04/2017
