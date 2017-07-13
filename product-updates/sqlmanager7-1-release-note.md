@@ -7,7 +7,7 @@ date: 20/06/2017
 
 We have shipped SQLDocKit 7.1.0. This is a minor release that brings documentation for SQL Servers Always On Availability Groups and database-level objects, as well as some bug fixes and improvements.
 
-As always, we’d be pleased to [hear your thoughts]() on these new features.
+As always, we’d be pleased to [hear your thoughts](https://www.syskit.com/contact-us) on these new features.
 
     Product version: 7.1.0
     Build number: 4870
