@@ -25,7 +25,7 @@ private: true
 ## [Error validating encrypted data](error-validating-encrypted-data.md)
 ## [Reporting Services instance ID fetching failed](instance-id-fetching-failed.md)
 ## [Report server installation is not initialized](report-server-installation-not-initialized.md)
-## [Attempted to perform an unauthorized operation](attempted-perform-unauthorized-operation.md.md)
+## [Attempted to perform an unauthorized operation](attempted-perform-unauthorized-operation.md)
 ## [Configuration file problem](configuration-file-problem.md)
 ## [No SQL credentials found for this Azure server](no-sql-credentials-found-azure-server.md)
 ## [Firewall does not allow access to this server from current IP address](firewall-does-not-allow-access-to-server.md)
