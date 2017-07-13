@@ -1,6 +1,6 @@
 ---
 title: The network path was not found
-description: This article describes how to resolve issues with the error message Network path was not found.
+description: This article describes how to resolve issue with the error message Network path was not found.
 author: Petra Filipi
 date: 12/07/2017
 ---

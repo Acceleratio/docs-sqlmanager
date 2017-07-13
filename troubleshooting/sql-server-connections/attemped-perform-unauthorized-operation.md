@@ -1,6 +1,6 @@
 ---
 title: Attempted to perform an unauthorized operation.
-description: This article describes how to resolve "attempted to perform an authorized operation" error.
+description: This article describes how to resolve attempted to perform an authorized operation error.
 author: Petra Filipi
 date: 12/07/2017
 ---

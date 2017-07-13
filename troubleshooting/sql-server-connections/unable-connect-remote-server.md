@@ -1,6 +1,6 @@
 ---
 title: Unable to connect to the remote server 
-description: 
+description: This article describes how to resolve unable to connect to the remote server error.
 author: Petra Filipi
 date: 12/07/2017
 ---

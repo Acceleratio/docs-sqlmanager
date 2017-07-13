@@ -1,6 +1,6 @@
 ---
 title: The service ‘MSSQL$SQLEXPRESS’ not running on ‘SERVER’
-description: 
+description: This article describes how to resolve SQL Server connectivity issue when the SQL Service is not running on the server.
 author: Petra Filipi
 date: 12/07/2017
 ---

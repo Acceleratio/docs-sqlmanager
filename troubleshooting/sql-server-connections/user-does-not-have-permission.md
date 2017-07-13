@@ -1,6 +1,6 @@
 ---
 title: The user does not have permission 
-description: 
+description: This article describes how to resolve the issue with permissions.
 author: Petra Filipi
 date: 12/07/2017
 ---
