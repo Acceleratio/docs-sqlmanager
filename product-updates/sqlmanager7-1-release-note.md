@@ -48,7 +48,6 @@ As always, we’d be pleased to [hear your thoughts](https://www.syskit.com/cont
 * Tooltip text was added to the Number of Required Licenses below the SQL Servers grid.
 * The mouse pointer now changes to a hand when moving over the License Details section.
 
-
 ## Bug fixes
 * Now you can add more logins with different passwords and display names. Before, you could not use the same login with different passwords for different servers because the first login was overwritten.
 * SQLDocKit wasn’t correctly detecting running SQL services in some cases. Before, there were only checks for Database Engine, so BI services could be wrongly detected as not running. Now, additional checks have been added for running SQL services during the load progress.
