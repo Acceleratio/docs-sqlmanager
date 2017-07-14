@@ -21,7 +21,6 @@ To enable access and retrieve data, use the Windows Azure Management Portal or r
 * Keep your SQL Server environment in top shape by following a number of new best practice reports, such as __Auditing Login Failures__, __Blocked Process Threshold__, and Virtual Log File Count. Make SQL Server security your top priority by checking security best practices, such as __Guest Permissions__, __User Password Policy__, and __Users with the Simple Passwords__. To learn more about new best practices, check our [best practices library](https://www.syskit.com/products/slq-manager/resources/sql-server-best-practices-library).
 * We’ve added a new detect option in the [Options Wizard](#internal/get-to-know-syskit-sql-manager/backstage-screen/options-wizard) so that you can now __discover not only SQL Servers that you have on your servers but also on workstations__. This new option is disabled by default, so be sure to enable it in case your developers have installed multiple SQL Server instances on their machines that you want to monitor.
 
-
 ## Improvements
 * SQL Servers dialog UX improvements: checkmarks instead of checkboxes in the grid, a more intuitive arrangement of the toolbar buttons, and a new option to manually add all instances at once (database engine plus all detected BI roles).
 * The Refresh button has been added to the Snapshots ribbon.
