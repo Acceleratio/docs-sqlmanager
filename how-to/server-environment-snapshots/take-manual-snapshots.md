@@ -1,8 +1,8 @@
 ---
-Title: Take Manual Snapshots
-Author: Petra Filipi
-Description: This article explains how administrators can take manual snapshots of the server environment.
-Date: 14/06/2017
+title: Take Manual Snapshots
+author: Petra Filipi
+description: This article explains how administrators can take manual snapshots of the server environment.
+date: 14/06/2017
 ---
 This article explains how administrators can take manual snapshots of the server environment.
 
