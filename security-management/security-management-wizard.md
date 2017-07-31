@@ -7,7 +7,7 @@ date: 14/06/2017
 
 This article describes how to grant permissions to the desired principal on specific SQL servers (database engines). You can also revoke permissions from the desired principals and drop logins from SQL Servers.
 
-### Grant Server Permission
+### Grant server permissions
 
 1. Navigate to __Security Management__ and click on the __Security Wizard__ in the __Manage__ ribbon.
 1. Select __Grant server permissions__ and __Next__ to continue.
