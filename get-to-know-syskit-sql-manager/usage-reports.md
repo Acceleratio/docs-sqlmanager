@@ -1,9 +1,10 @@
 ---
-title: Usage Reports
+title: Reports
 description: This article explains how to use SysKit SQL Manager usage reports to track SQL Server database status, disk usage and database sizes.
 author: Petra Filipi
 date: 06/07/2017
 ---
+### Usage Reports
 
 SysKit SQL Manager reports cover usage, namely disk usage and database sizes.
 
@@ -18,5 +19,9 @@ __Storage Metrics:__ This report tracks the storage space used by SQL Server. Wi
 __Orphaned Databases:__ This report lists all the databases with orphaned owners. For example, databases with owners who have been disabled in or deleted from the AD.
 
 __Unused Databases:__ This report tracks databases that have not been used in a long time based on the data of the last read/write activity. Note that the time range resets each time you restart a SQL Server.
+
+### Objects
+
+__Table Dependecies Graph:__ This report shows foreign key connections between tables.
  
 Visit [Report Examples](https://www.syskit.com/products/slq-manager/resources/report-examples) to see what these reports look like when they have been exported.
