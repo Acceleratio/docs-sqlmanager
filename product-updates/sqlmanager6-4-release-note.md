@@ -1,5 +1,5 @@
 ---
-title: SQLDocKit 6.4 - Release Note
+title: SQLDocKit 6.4.0 - Release Note
 description: This minor release offers many features and improvements:the ability to compile an inventory of and document all SQL Server Business Intelligence Services (SSIS, SSAS, SSRS) in your environment, auto-discover SQL Server instances across multiple domains, document your SQL Server Agent, and much more.
 author: Petra Filipi
 date: 07/12/2016
