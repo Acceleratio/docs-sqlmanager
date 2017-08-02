@@ -16,13 +16,9 @@ Our company name has been changed from __Acceleratio__ to __SysKit__! We�
 [Click here to download the new release.](https://www.syskit.com/products/slq-manager/download)
 
 ## Features
-* 
-## Improvements
-* You may notice a few visual changes following our rebranding - SysKit SQL Manager now has a new name, skin, logo, and splash screen!
-* More information about SQL Server Always On is now available. Use the new Always On Replicas Performance report to monitor performance for Always On Availability Groups, Synchronization Performance, Estimated Recovery Time and more
-* Check out the new report which shows a graphical representation of all tables participating in at least one foreign key relationship. The Table Dependencies Graph displays foreign key connections between all tables so you can easily review database structure, detect tables with a large number of foreign key references and track foreign key paths linking the tables, which can be helpful while analyzing the results of ON DELETE CASCADE option.
-* Before, we introduced you SQL Server Database Objects documentation feature.  Now we also  support Azure SQL Database Objects Documentation which provides deeper insight into your Azure SQL database environment by documenting not only the databases, but all the Azure SQL Server Database Objects, including tables, views, functions, stored procedures, and table indexes in a single document.
-SysKit SQL Manager is now able to recognize SQL Clusters and Nodes that belong to a given cluster. If you have implemented Failover Clustering, now you can explore new reports that show you a complete overview of your clustered environment from a single UI:
+* Check out the new report which shows a graphical representation of all tables participating in at least one foreign key relationship. The __Table Dependencies Graph__ displays foreign key connections between all tables so you can easily review database structure, detect tables with a large number of foreign key references and track foreign key paths linking the tables, which can be helpful while analyzing the results of ON DELETE CASCADE option.
+* Before, we introduced you SQL Server Database Objects documentation feature.  Now we also  support __Azure SQL Database Objects Documentation__ which provides deeper insight into your Azure SQL database environment by documenting not only the databases, but all the __Azure SQL Server Database Objects__, including tables, views, functions, stored procedures, and table indexes in a single document.
+* SysKit SQL Manager is now able to recognize __SQL Clusters__ and __Nodes__ that belong to a given cluster. If you have implemented Failover Clustering, now you can explore new reports that show you a complete overview of your clustered environment from a single UI:
     * __General__ – Shows general information about your clustered environment such as Qourum Type, Owning Node and Shared Drives.
     * __Nodes__ – Shows all nodes that belong to the selected failover cluster and their states.
     * __Disk Partitions__ –  Shows disk partitions information such as Volume Label, Path, Total Size and Free Space.
@@ -30,8 +26,15 @@ SysKit SQL Manager is now able to recognize SQL Clusters and Nodes that belong t
     * __Resource Groups__ – Shows all resource groups, Owner Node and States.
     * __Resources__ – Shows all resources, Owner Group, Owner Node, Type and State. 
 
+## Improvements
+* You may notice a few visual changes following our rebranding - __SysKit SQL Manager__ now has a new name, skin, logo, and splash screen!
+* More information about SQL Server __Always On__ is now available. Use the new Always On __Replicas Performance__ report to monitor performance for Always On Availability Groups, __Synchronization Performance__, __Estimated Recovery Time__ and more
+
 ## Bug fixes
 * Fixed Run now option at the end of configuration wizard.
+* In some cases index size and data size in database objects reports were not well calculated. 
+* Some statistics in the Statistics report were missing from snapshot.
+* The Best Practices Dashboard was not reflecting the correct result from the SQL Server Job Owner best practice report.
 
 
 
