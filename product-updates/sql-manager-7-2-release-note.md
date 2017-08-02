@@ -1,5 +1,5 @@
 ---
-title: SQLDocKit 7.2.0 - Release Note
+title: SysKit SQL Manager 7.2.0 - Release Note
 description: This article describes features, improvements and bug fixes delivered in SysKit SQL Manager 7.2.0
 author: Petra Filipi
 date: 01/09/2017
