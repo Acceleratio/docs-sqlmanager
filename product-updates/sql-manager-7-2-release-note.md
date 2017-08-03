@@ -9,8 +9,8 @@ We are proud to present a new, refreshed version of  __SysKit SQL Manager__, w
 
 Our company name has been changed from __Acceleratio__ to __SysKit__! We’ve also renamed our SQL server documentation tool, from SQLDocKit to SysKit SQL Manager. You can read the back story to these changes in the [Rebranding Announcement]() blog post. 
 
-Product version: 7.2.0
-Build number: 5074
+Product version: 7.2.0  
+Build number: 5074  
 Release date: Friday, September 1, 2017
 
 [Click here to download the new release.](https://www.syskit.com/products/sql-manager/download)
