@@ -6,7 +6,7 @@ date: 12/06/2017
 ---
 This article explains how to install SysKit SQL Manager.
 
-1. [Download](https://www.syskit.com/products/slq-manager/download) the application.
+1. [Download](https://www.syskit.com/products/sql-manager/download) the application.
 2. Unpack and run the __SysKitSQLManagerSetup.exe.__ The wizard will guide you through the installation steps. Click __Next__ > to proceed.
 3. Click __I Accept the terms of the license agreement__ to accept the license and then click __Next__ > to proceed.
 4. Choose the installation folder, e.g. __C:\Program Files\SysKit\SQL Manager__. Click __Next__ > to proceed.

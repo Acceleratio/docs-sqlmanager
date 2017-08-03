@@ -17,4 +17,4 @@ Features:
 * Manage multiple databases across different SQL Servers
 
 Make the most of your SQL administration with SysKit SQL Manager. Save time and eliminate endless manual documentation!
-Download free trial and give it a try - https://www.syskit.com/products/slq-manager/
+Download free trial and give it a try - https://www.syskit.com/products/sql-manager/
