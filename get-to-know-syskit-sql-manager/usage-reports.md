@@ -24,4 +24,4 @@ __Unused Databases:__ This report tracks databases that have not been used in a 
 
 __Table Dependecies Graph:__ This report shows foreign key connections between tables.
  
-Visit [Report Examples](https://www.syskit.com/products/slq-manager/resources/report-examples) to see what these reports look like when they have been exported.
+Visit [Report Examples](https://www.syskit.com/products/sql-manager/resources/report-examples) to see what these reports look like when they have been exported.
