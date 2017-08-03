@@ -29,7 +29,6 @@ Release date: Friday, September 1, 2017
 ## Improvements
 * You may notice a few visual changes following our rebranding – __SysKit SQL Manager__ now has a new name, skin, logo, and splash screen!
 * More information about SQL Server __Always On__ is now available. Use the new Always On __Replicas Performance__ report to monitor performance for Always On Availability Groups, __Synchronization Performance__, __Estimated Recovery Time__ and more
-* We added two columns (__Login Locked__ and __Login Expired__) to the SQL Server User Password Policy best -practices report, so now you can create alerts to notify you via email whenever an SQL account is locked out or expired. 
 
 ## Bug fixes
 * Fixed Run now option at the end of configuration wizard.
