@@ -4,7 +4,7 @@ slug: troubleshooting
 private: true
 ---
 
-# [SQL Server Connections](sql-server-connections.md)
+# SQL Server Connections
 ## [Could not open a connection to SQL Server](could-not-open-a-connection-to-sql-server.md)
 ## [No connection could be made because the target machine actively refused it](connection-couldnt-be-made-target-machine-refused-it.md)
 ## [Server doesn't support requested protocol](server-does-not-support-requested-protocol.md) 
@@ -19,7 +19,7 @@ private: true
 ## [The network path was not found](network-path-not-found.md)
 ## [The operation you are attempting requires a secure connection](secure-connection-required.md)
 ## [The SELECT permission was denied](select-permission-denied.md)
-## [The user does not have permission](user-does-not-have-permission.md)
+
 ## [A connection cannot be made to redirector](connection-cannot-be-made-to-redirector.md)
 ## [Timeout expired](timeout-expired.md)
 ## [Error validating encrypted data](error-validating-encrypted-data.md)
