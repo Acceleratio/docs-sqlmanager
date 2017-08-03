@@ -4,7 +4,7 @@ slug: how-to
 private: true
 ---
 
-# [Add SQL Server](add-sql-server.md)  
+# Add SQL Server
 ## [Autodiscover SQL Servers](autodiscover-sql-servers.md)
 ## [Manually Add SQL Server](manually-add-sql-server.md)  
 ## [Manage Domains and Credentials](manage-domains-credentials.md)
