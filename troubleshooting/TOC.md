@@ -19,7 +19,7 @@ private: true
 ## [The network path was not found](network-path-not-found.md)
 ## [The operation you are attempting requires a secure connection](secure-connection-required.md)
 ## [The SELECT permission was denied](select-permission-denied.md)
-
+## [The user does not have permission](user-does-not-have-permission.md)
 ## [A connection cannot be made to redirector](connection-cannot-be-made-to-redirector.md)
 ## [Timeout expired](timeout-expired.md)
 ## [Error validating encrypted data](error-validating-encrypted-data.md)
