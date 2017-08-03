@@ -36,6 +36,4 @@ Release date: Friday, September 1, 2017
 * Some statistics in the Statistics report were missing from snapshot.
 * The Best Practices Dashboard was not reflecting the correct result from the SQL Server Job Owner best practices report.  
 
-
-
 [Click here to download the new release.](https://www.syskit.com/products/slq-manager/download)
