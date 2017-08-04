@@ -3,4 +3,4 @@ title: Product Updates
 slug: product-updates
 private: true
 ---
-# [SQLDocKit 7.2.0 - Release Note](sql-manager-7-2-release-note.md)  
+# [SysKit SQL Manager 7.2.0 - Release Note](sql-manager-7-2-release-note.md)  
