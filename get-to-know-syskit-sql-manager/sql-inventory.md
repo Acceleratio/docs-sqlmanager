@@ -75,7 +75,7 @@ SysKit SQL Manager provides valuable information about your __Azure SQL server e
 Keep track of your availability groups, primary and secondary databases (synchronization state, health, database state), availability replicas, roles, availability group listeners (subnet, IP address, listener port, state), and availability modes.
 
 ## Failover Cluster
-SysKit SQL Manager is able to recognize __SQL Clusters__ and __Nodes__ that belong to a given cluster. If you have implemented Failover Clustering, you can explore reports that show you a complete overview of your clustered environment:General Information:, Nodes, Disk Partitions, Network Interfaces, Resource Groups and Resources.
+SysKit SQL Manager is able to recognize __SQL Clusters__ and __Nodes__ that belong to a given cluster. If you have implemented __Failover Clustering__, you can explore reports that show you a complete overview of your clustered environment:General Information:, Nodes, Disk Partitions, Network Interfaces, Resource Groups and Resources.
 
 ## Servers
 
