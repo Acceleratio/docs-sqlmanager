@@ -2,7 +2,7 @@
 title: SysKit SQL Manager 7.2.0 - Release Note
 description: This article describes features, improvements and bug fixes delivered in SysKit SQL Manager 7.2.0
 author: Petra Filipi
-date: 01/09/2017
+date: 25/08/2017
 ---
 
 We are proud to present a new, refreshed version of  __SysKit SQL Manager__, which comes with a new name and logo! We felt like a change and, with a move to new office space, we decided we might do a bit more than just remodeling and changing of our address. In the rebranding process, we’ve gone all out by changing the company name, logo, and names of all our products. 
@@ -11,7 +11,7 @@ Our company name has been changed from __Acceleratio__ to __SysKit__! We�
 
 Product version: 7.2.0  
 Build number: 5074  
-Release date: Friday, September 1, 2017
+Release date: Friday, August 25, 2017
 
 [Click here to download the new release.](https://www.syskit.com/products/sql-manager/download)
 
@@ -32,7 +32,8 @@ Release date: Friday, September 1, 2017
 * We added two columns (__Login Locked__ and  __Login Expired__) to the SQL Server User Password Policy best practice report, so now you can create alerts to notify you via email whenever a SQL account is locked out or expired. 
 
 ## Bug fixes
-* Fixed Run now option at the end of configuration wizard.
+* Fixed the error occurred when trying to generate best practices documentation.
+* Fixed the Run now option at the end of configuration wizard.
 * In some cases, index size and data size in database objects reports were not well-calculated. 
 * Some statistics in the Statistics report were missing from snapshot.
 * The Best Practices Dashboard was not reflecting the correct result from the SQL Server Job Owner best practices report.  
