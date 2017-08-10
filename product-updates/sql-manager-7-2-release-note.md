@@ -19,7 +19,7 @@ Release date: Friday, August 25, 2017
 * Check out the new report, a graphical representation of all tables participating in at least one foreign key relationship. The  __Table Dependencies Graph__ displays foreign key connections between all tables so you can easily review database structure, detect tables with a large number of foreign key references, and track foreign key paths linking the tables.
 * Before, we introduced you to the SQL Server Database Objects documentation feature. Now, we also support  __Azure SQL Database Objects Documentation__, which provides deeper insight into your Azure SQL database environment by documenting not only the databases, but all the __Azure SQL Server Database Objects__, including tables, views, functions, stored procedures, and table indexes in a single document. 
 * SysKit SQL Manager is now able to recognize  __SQL Clusters__ and __Nodes__ that belong to a given cluster. If you have implemented __Failover Clustering__, now you can explore new reports that show you a complete overview of your clustered environment from a single UI: 
-    * __General__ – Shows general information about your clustered environment, such as Qourum Type, Owning Node and Shared Drives.
+    * __General__ – Shows general information about your clustered environment, such as Quorum Type, Owning Node and Shared Drives.
     * __Nodes__ – Shows all nodes that belong to the selected failover cluster and their states.
     * __Disk Partitions__ –  Shows disk partitions information such as Volume Label, Path, Total Size and Free Space.
     * __Network Interfaces__ – Shows network information, IP Addresses and States.
