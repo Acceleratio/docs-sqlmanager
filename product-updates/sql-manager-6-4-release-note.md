@@ -8,8 +8,6 @@ date: 07/12/2016
 We have shipped SQLDocKit 6.4! This is a minor release with a lot of new features and improvements.
 We’ve been listening closely to all your feedback since our release in August, and as of today you’ll find that SQLDocKit is more powerful than ever!
 
-[Read more about its fancy new features]()
-
 Product version: 6.4.0  
 Build number: 2481  
 Release date: Tuesday, December 7, 2016
