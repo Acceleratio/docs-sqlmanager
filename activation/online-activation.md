@@ -25,7 +25,7 @@ The Consultant license can be activated on any server, and you can monitor an un
 1. From the left navigation bar on the __Backstage Screen__, select Help and click on the __License Details__ section to begin the activation process.
 2. On the activation screen choose the __Consultant__ option. Fill in the __Email__ and __Password__ fields.
 
-    You need to use the same email and password that you received during your online purchase. [Contact us](https://www.syskit.com/contact-us) if you do not have the necessary activation information.
+    You need to use the same email and password that you received during your online purchase. [Contact us](https://www.syskit.com/company/contact-us) if you do not have the necessary activation information.
 
     The __One-time activation__ option allows short-term activation of SysKit SQL Manager. If you check this box, the license details will be deleted and the license will be deactivated when the application is closed. This feature can be quite convenient when you are documenting your customer's environment.
 

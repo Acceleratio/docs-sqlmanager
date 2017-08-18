@@ -22,7 +22,7 @@ If you do not activate your product within a 30-day trial period, it will stop c
 
 ### If I do not have the product activation code needed for activation, how can I get one?
 
-If you cannot find your product activation code, contact our [support team](https://www.syskit.com/contact-us).
+If you cannot find your product activation code, contact our [support team](https://www.syskit.com/company/contact-us).
 
 ### How do I activate my product?
 
