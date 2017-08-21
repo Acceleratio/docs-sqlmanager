@@ -7,7 +7,7 @@ date: 01/09/2017
 
 We are proud to present a new, refreshed version of  __SysKit SQL Manager__, which comes with a new name and logo! We felt like a change and, with a move to new office space, we decided we might do a bit more than just remodeling and changing of our address. In the rebranding process, we’ve gone all out by changing the company name, logo, and names of all our products. 
 
-Our company name has been changed from __Acceleratio__ to __SysKit__! We’ve also renamed our SQL server documentation tool, from SQLDocKit to SysKit SQL Manager. You can read the back story to these changes in the [Rebranding Announcement](https://syskit.com/blog/rebranding-announcement-acceleratio-becomes-syskit-act-1-scene-3-action/) blog post. 
+Our company name has been changed from __Acceleratio__ to __SysKit__! We’ve also renamed our SQL server documentation tool, from SQLDocKit to SysKit SQL Manager. You can read the back story to these changes in the [Rebranding Announcement](https://syskit.com/blog/rebranding-announcement-syskit) blog post. 
 
 Product version: 7.2.0  
 Build number: 5074  
