@@ -30,7 +30,7 @@ The Consultant license can be activated on any server, but you need to have a va
     * Click on the __Generate__ button to generate a __License Details (.dlic) file__.
    * Navigate to the [Activation Page](https://my.syskit.com/activation/?P=SQLManager) and  select the __Consultant License__ activation option.
    * Select the __Version__ of SysKit SQL Manager you are creating a license for.
-   * On the Activation Page, login with your username and password. You need to use the same email and password that you received during your online purchase. [Contact us](https://www.syskit.com/contact-us) if you do not have the activation information.
+   * On the Activation Page, login with your username and password. You need to use the same email and password that you received during your online purchase. [Contact us](https://www.syskit.com/company/contact-us) if you do not have the activation information.
    * Upload the __License Details (.dlic) file__.
    * Click on the __Generate license file!__
    * Download the __license file (.lic).__
