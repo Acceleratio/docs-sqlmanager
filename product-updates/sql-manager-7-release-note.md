@@ -10,7 +10,7 @@ This is a major release that offers many powerful features, including support fo
 
 Product version: 7.0.0  
 Build number: 4080  
-Release date: Tuesday, April 4, 2017
+Release date: Apr 4, 2017
 
 [Click here to download the new release.](https://www.syskit.com/products/sql-manager/download)
 
