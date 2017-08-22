@@ -11,7 +11,7 @@ As always, we’d be pleased to [hear your thoughts](https://www.syskit.com/comp
 
 Product version: 7.1.0  
 Build number: 4870  
-Release date: Tuesday, June 20, 2017
+Release date: Jun 20, 2017
 
 [Click here to download the new release.](https://www.syskit.com/products/sql-manager/download)
 
