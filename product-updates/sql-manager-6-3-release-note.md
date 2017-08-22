@@ -9,7 +9,7 @@ We have shipped SQLDocKit 6.3! This is a minor release with a couple of new feat
 
 Product version: 6.3.0  
 Build number: 18   
-Release date: Thursday, August 25, 2016
+Release date: Aug 25, 2016
 
 [Click here to download the new release.](https://www.syskit.com/products/sql-manager/download)
 
