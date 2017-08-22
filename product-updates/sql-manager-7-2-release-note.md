@@ -11,7 +11,7 @@ Our company name has been changed from __Acceleratio__ to __SysKit__! We�
 
 Product version: 7.2.0  
 Build number: 5074  
-Release date: Friday, September 1, 2017
+Release date: Sept 1, 2017
 
 [Click here to download the new release.](https://www.syskit.com/products/sql-manager/download)
 
