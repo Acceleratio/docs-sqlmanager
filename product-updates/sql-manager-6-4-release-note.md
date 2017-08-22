@@ -10,7 +10,7 @@ We’ve been listening closely to all your feedback since our release in August,
 
 Product version: 6.4.0  
 Build number: 2481  
-Release date: Tuesday, December 7, 2016
+Release date: Dec 7, 2016
 
 [Click here to download the new release.](https://www.syskit.com/products/sql-manager/download)
 
