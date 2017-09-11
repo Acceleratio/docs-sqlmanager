@@ -1,5 +1,5 @@
 ---
-title: SysKit SQL Manager – 7.2.0
+title: SysKit SQL Manager 7.2.0 – Release Note
 description: This article describes features, improvements and bug fixes delivered in SysKit SQL Manager 7.2.0
 author: Petra Filipi
 date: 06/09/2017
