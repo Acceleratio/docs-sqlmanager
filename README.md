@@ -1,6 +1,7 @@
 ---
 private: true
 ---
+# SysKit SQL Manager
 
 SysKit SQL Manager is SQL Server administration and management tool created by SysKit. SysKit SQL Manager was developed to make the lives of SQL Server admins and consultants easier by simplifying their daily time-consuming administration tasks. 
 
