@@ -6,6 +6,7 @@ private: true
 
 # [Backstage Screen](backstage-screen.md)
 ## [Options Wizard](options-wizard.md)
+## [Compare Wizard] (compare-wizard.md)
 ## [Subscriptions and Alerts](subscriptions-and-alerts.md)
 # [Best Practices](best-practices.md)
 # [SQL Inventory](sql-inventory.md)
