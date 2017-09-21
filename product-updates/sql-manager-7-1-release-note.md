@@ -1,5 +1,5 @@
 ---
-title: SQLDocKit 7.1.0 - Release Note
+title: SQLDocKit 7.1.0 – Release Note
 description: This article describes features, improvements and bug fixes delivered in SQLDocKit 7.1.0
 author: Petra Filipi
 date: 20/06/2017

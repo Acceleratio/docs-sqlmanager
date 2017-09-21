@@ -1,5 +1,5 @@
 ---
-title: SQLDocKit 6.3.0 - Release Note
+title: SQLDocKit 6.3.0 – Release Note
 description: This article describes features and bug fixes delivered in SQLDocKit 6.3.0
 author: Toni Frankola
 date: 07/12/2016
