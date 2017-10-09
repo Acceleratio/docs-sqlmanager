@@ -14,3 +14,8 @@ private: true
 ## [Manage the SQL Servers you want to monitor](manage-servers-want-monitor.md)  
 # Server Environment Documentation
 ## [Create Server Environment Documentation](create-server-environment-documentation.md)
+# [Compare Wizard]
+## [Compare Entire Snapshots](compare-snapshots.md)
+## [Single SQL Server](compare-single-sql-server.md)
+## [Databases](compare-databases.md)
+## [Security](compare-security.md)
