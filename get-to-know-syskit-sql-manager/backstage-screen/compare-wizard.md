@@ -11,3 +11,5 @@ Compare Wizard provides the possibility to track SQL Server environment configur
 *  [Databases](#internal/docs-sqlmanager/how-to/compare-wizard/compare-databases) - Compare and track changes made on the structure of your databases.
 *  [Security](#internal/docs-sqlmanager/how-to/compare-wizard/compare-security) -  Compare and track changes to SQL role permissions and user memberships.
 
+_Learn more about comparing objects by clicking on the feature you're interested in._
+
