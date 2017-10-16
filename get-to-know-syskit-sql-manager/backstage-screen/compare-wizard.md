@@ -13,7 +13,7 @@ Compare Wizard provides the possibility to track SQL Server environment configur
     * __Compare Databases With a Previous Snapshot__ - Track all changes on database schema at different points in time. This will compare all the information contained in the snapshot about loaded objects and their settings. This will give you a simple way of determining if any change to the structure of the database happened between the selected dates (eg. a column was added to a table or an index was dropped).
     * __Compare two Different Databases__ - Compare database structure between any two selected databases.
 
-* [Security](#internal/docs-sqlmanager/how-to/compare-wizard/compare-security) -  Compare and track changes to SQL role permissions and user memberships.
+* [Security](#internal/docs-sqlmanager/how-to/compare-wizard/compare-security-users-roles) -  Compare and track changes to SQL role permissions and user memberships.
     *  __Track Differences over Time__ 
         * __User Differences__ - Check if database users or their role memberships have changed. This can be useful if you want to view differences in database users at different points in time.
         * __Role Differences__ - Track all database role changes on the selected SQL Server. This report will provide an easy overview of any changes to objects that are granted by security roles in selected databases and any differences in permission types on these objects.
