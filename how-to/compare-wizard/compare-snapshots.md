@@ -4,7 +4,7 @@ description: This section explains how you can use the Compare Wizard to compare
 author: Petra Filipi
 date: 09/10/2017
 ---
-## Compare Entire Snapshots
+This section explains how you can use the Compare Wizard to compare different snapshots of your environment.
 
 1. Select __Entire Snapshots__ as a comparison type. Click __Next__ to continue.
 2. Under the __Snapshot Selection__, you can select different, previously taken snapshots and compare them.
