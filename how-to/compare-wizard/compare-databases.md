@@ -9,8 +9,8 @@ This section explains how you can use the Compare Wizard to compare databases. N
 
 ## Compare Databases with a Previous Snapshot
 1. Select __Databases__ as the comparison type and then the __Compare Databases with a Previous Snapshot__ subtype. Click Next to continue.
-2. In the __Compare Results__ dialog box, you can adjust the Source filters to compare and see the differences (if there are any)between two different snapshots.
+2. In the __Compare Results__ dialog box, you can adjust the Source filters to compare and see the differences (if there are any) between two different snapshots.
 
 ## Compare two Different Databases
 1. Select __Databases__ as the comparison type and then the __Compare two Different Databases__ subtype. Click Next to continue.
-2. In the __Compare Results__ dialog box, adjust the Source and Target filters to compare and see the differences (if there are any)between two different databases.
+2. In the __Compare Results__ dialog box, adjust the Source and Target filters to compare and see the differences (if there are any) between two different databases.
