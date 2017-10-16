@@ -18,4 +18,4 @@ private: true
 ## [Compare Entire Snapshots](compare-snapshots.md)
 ## [Single SQL Server](compare-single-sql-server.md)
 ## [Databases](compare-databases.md)
-## [Security](compare-security.md)
+## [Security](compare-security-users-roles.md)
