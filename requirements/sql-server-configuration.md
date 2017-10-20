@@ -38,12 +38,12 @@ The default SQL Server instance uses the TCP/IP port 1433. But depending on your
 If a predefined port is being used, you can see this value in the SQL Server Configuration Manager > Protocols for SQL Server (or your instance name) > TCP/IP Protocol properties > IP Address and TCP Port property.
 
 If a dynamic port is being used, you can use the following code to retrieve its information. Use SQL Server Management Studio to execute it:
-
+```sql
 > USE master  
 > GO  
 > xp_readerrorlog 0, 1, N'Server is listening on'  
 > GO  
-
+```
 If you cannot run the above-mentioned command, the alternative way to retrieve port information is to run the following command in the Command Prompt:
 
 > netstat -ano | findstr 1234
