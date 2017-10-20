@@ -45,9 +45,9 @@ If a dynamic port is being used, you can use the following code to retrieve its 
 > GO  
 ```
 If you cannot run the above-mentioned command, the alternative way to retrieve port information is to run the following command in the Command Prompt:
-
+```powershell
 > netstat -ano | findstr 1234
-
+```
 Replace the numbers (1234) in the command with the SQL Server Process ID. Process Id of the SQL Server process. If your SQL Server is using different ports, you should remember these ports and open them in the firewall. The next section provides instructions for the configuration of firewall ports and allowing SysKit SQL Manager to discover these servers.
 
 ### Firewall Configuration
