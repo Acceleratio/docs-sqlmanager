@@ -18,8 +18,6 @@ __Storage Metrics:__ This report tracks the storage space used by SQL Server. Wi
 
 __Orphaned Databases:__ This report lists all the databases with orphaned owners. For example, databases with owners who have been disabled in or deleted from the AD.
 
-__Unused Databases:__ This report tracks databases that have not been used in a long time based on the data of the last read/write activity. Note that the time range resets each time you restart a SQL Server.
-
 ### Objects
 
 __Table Dependecies Graph:__ This report shows foreign key connections between tables.
