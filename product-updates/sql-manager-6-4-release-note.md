@@ -1,5 +1,5 @@
 ---
-title: SQLDocKit 6.4.0 - Release Note
+title: SQLDocKit 6.4.0 – Release Note
 description: This article describes features and improvements delivered in SQLDocKit 6.4.0
 author: Petra Filipi
 date: 07/12/2016
