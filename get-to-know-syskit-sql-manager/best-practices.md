@@ -47,6 +47,8 @@ __Database Collation__: The report compares Database Collations to Server Collat
 
 __Database Files__: Database files and transaction logs should not be on the primary drive; they should be on separate drives.
 
+__Databases Without Owners__: The report shows all databases without owners.
+
 __Simple Recovery Model__: Use the FULL or BULK-LOGGED recovery model when dealing with production servers.
 
 __Virtual Log File Count__: Too many virtual log files can cause transaction log backups to slow down and can also slow down database recovery and, in extreme cases, even affect insert/update/delete performance.
