@@ -9,7 +9,7 @@ This article describes how to grant permissions to the desired principal on spec
 
 ### Grant server permissions
 
-1. Navigate to __Security Management__ and click on the __Security Wizard__ in the __Manage__ ribbon.
+1. Navigate to __Live Explorer__ and click on the __Security Wizard__ in the __Manage__ ribbon.
 1. Select __Grant server permissions__ and __Next__ to continue.
 1. The __Server__ step allows you to specify the target database engines for which the changes will be made. Select the SQL Server database engines for which you want to grant server permissions and click __OK__. Click __Next__ to continue. 
 1. The __Logins and Roles__ step allows you to select the principals who will be granted permissions and the server roles you wish to grant for those principals. If a login does not exist on any of the selected servers, it will be created. Click __Next__ to continue.
@@ -22,7 +22,7 @@ To delay the __Grant server permissions__ action, select the __Grant Permissions
 
 ### Revoke server permissions
 
-1. Navigate to the __Security Management__ and click on the __Security Wizard__ in the __Manage__ ribbon.
+1. Navigate to the __Live Explorer__ and click on the __Security Wizard__ in the __Manage__ ribbon.
 1. Select __Revoke server permissions__ and __Next__ to continue. 
 1. The __Server__ step allows you to specify the target database engines for which the changes will be made. Select the SQL Server database engines for which you want to revoke server permissions and click __OK__. Click __Next__ to continue. 
 1. The __Logins and Roles__ step allows you select the principals from which permissions will be revoked and the server roles you wish to revoke from those principals. Click __Next__ to continue. 
@@ -35,7 +35,7 @@ After you finish the wizard, all scheduled actions will be visible with the __Pe
 
 ### Drop logins
 
-1. Navigate to __Security Management__ and click on the __Security Wizard__ in the __Manage__ ribbon.
+1. Navigate to __Live Explorer__ and click on the __Security Wizard__ in the __Manage__ ribbon.
 1. Select __Drop logins__ and __Next__ to continue. 
 1. The __Server__ step allows you to specify the target database engines for which the changes will be made. Select the SQL Server database engines from which you want to drop logins and click __OK__. Click __Next__ to continue. 
 1. The __Logins and Roles__ step allows you to select the principals from which permissions logins will be dropped and server roles you wish to revoke from those principals. Click __Next__ to continue. 

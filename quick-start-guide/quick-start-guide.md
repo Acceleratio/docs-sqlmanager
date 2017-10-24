@@ -11,7 +11,7 @@ Here is what you need to do to start using our application:
 3. Once installed, start the application from the Start menu: __Start > All Programs > SysKit SQL Manager__.
 4. Click the __Take Snapshot__ button from the left-side navigation bar to load the current SQL Server Environment settings.
 5. Use the __Generate__ button to generate server environment documentation in .DOCX or .XLSX format.
-6. Use the left-side navigation bar to explore the server environment via __Security Management__.
+6. Use the left-side navigation bar to explore the server environment via __Live Explorer__.
 
 ## Learn more
 
