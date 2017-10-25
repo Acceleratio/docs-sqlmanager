@@ -11,10 +11,8 @@ Besides manually adding SQL Servers there is an option for auto-discovering all 
 Use the __Options__ wizard to adjust and change your Snapshot [Options](#internal/get-to-know-syskit-sql-manager/backstage-screen/options-wizard).
 
 ### Follow these steps to enable or disable autodetect option:
-1. Navigate to the __Snapshot__ options.
-2. Check or uncheck the __Enable autodetect__ option.
-3. Click __Save__.
-
+1. Navigate to the __Backstage Actions Screen__ and click __Administration__.
+2. To enable or disable autodetect option use the corresponding button in the Environment ribbon or use [Target Options](#internal/get-to-know-syskit-sql-manager/backstage-screen/options-wizard).
 
 You can also [add multiple domains](#internal/how-to/add-sql-server/manage-domains-credentials/) and multiple credentials so that SysKit SQL Manager can auto-discover servers from multiple domains.
 
