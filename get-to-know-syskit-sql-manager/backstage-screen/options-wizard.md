@@ -29,7 +29,7 @@ The time you set here is the time when the Service will start taking an automati
 A Minimal period is every four hours. The SysKit SQL Manager service will start executing defined task at the selected time and it will be repeated a selected number of days or hours (default value: 1 day). You can also define period value, i.e. intervals in which Service runs depending on the period type.
 
 ### Snapshot Options
-This section allows you to customize the detect options. You can check the __Detect SQL servers on workstations__ option and __Enable autodetect__ option to detect automatically all SQL servers in your domains before each snapshot.
+This section allows you to customize the detect options. Here you can check the __Detect SQL servers on workstations__ option. 
 
 You can also choose what will be loaded in a manual or automatic snapshot. Available options are: __Server Information, Installed Programs and Available Updates, Database Role Membership, Database Object Details, Advanced Database Object Details, SQL Server Agent, Analysis Services, Integration Services and Reporting Services.__
 
