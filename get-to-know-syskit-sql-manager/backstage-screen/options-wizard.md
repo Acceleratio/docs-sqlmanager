@@ -38,7 +38,7 @@ Use load performance slider to switch between low resource usage load to a high-
 ### Load Target
 This section allows you to customize how SysKit SQL Manager crawls your SQL Server environment. If you know exactly what data you are interested in and want to reduce the loading time, you can narrow down your loading scope to specific SQL Servers. If you want to be sure you’ve loaded the whole environment's content, All is the recommended scope. You can also check the __Enable autodetect option__ to automatically detect all SQL Servers in your domains before each snapshot.
 
-The selection you make here applies both for the SysKit SQL Manager Service taking an automatic snapshot and when using the Default mode in the Take Snapshot Wizard.
+The selection you make here applies both for the __SysKit SQL Manager Service taking an automatic snapshot__ and when using the __Default__ mode in the Take Snapshot Wizard.
 
 ### Data Retention
 
