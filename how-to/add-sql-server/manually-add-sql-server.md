@@ -9,7 +9,7 @@ This section describes how you can manually add SQL servers in SysKit SQL Manage
 ## Add an SQL Server
 
 1. Navigate to the __Backstage Actions Screen__ and click the __Administration__ button.
-2. Click the __Add__ Server button.
+2. Click the __Add SQL Server__ button.
 3. Choose __Server type__ (Database Engine, Analysis Services, Integration Services, Reporting Services, Azure or All detected instances) and enter the __Server name__.
 4. Specify credentials.
    * The currently supported authentication types are Windows Authentication and SQL Servers Authentication for Database Engine.
