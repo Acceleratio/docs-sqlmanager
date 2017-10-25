@@ -38,6 +38,8 @@ Use load performance slider to switch between low resource usage load to a high-
 ### Load Target
 This section allows you to customize how SysKit SQL Manager crawls your SQL Server environment. If you know exactly what data you are interested in and want to reduce the loading time, you can narrow down your loading scope to specific SQL Servers. If you want to be sure you’ve loaded the whole environment's content, All is the recommended scope. You can also check the __Enable autodetect option__ to automatically detect all SQL Servers in your domains before each snapshot.
 
+The selection you make here applies both for the SysKit SQL Manager Service taking an automatic snapshot and when using the Default mode in the Take Snapshot Wizard.
+
 ### Data Retention
 
 In this section, the user can set how long the database data will be kept for. After the configured time period elapses, all of the __data records from SysKit SQL Manager database older than the configured time period will be deleted__. The default time period for storing the data records is 6 months. SysKit SQL Manager service will execute this job every day at the random time between 1:30AM and 5AM.
